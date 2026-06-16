@@ -13,12 +13,12 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 
 | Date found | Firm | Role | Loc / Model | Score | Status | Notes |
 |---|---|---|---|---|---|---|
-| 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | 66 | NEW | AI/aerospace/defense fund; LP ops + diligence + closings = his exact background. Confirm level (Sr Assoc?) + carry. |
-| 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 60 | NEW | Direct to MP; IR + infra build. Comp $70–190K; **carry NOT mentioned (key risk).** |
-| 2026-06-16 | Amboy Street Ventures | Principal, Life Sciences | Remote | 55 | NEW | Principal, track-to-Partner, remote — but requires top-tier healthcare-VC pedigree he lacks; women's-health sector off his target. |
-| 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US) | 50 `UNVERIFIED` | NEW | Remote CoS surfaced on Startup&VC; posting details/comp/carry not confirmed — needs verification. |
-| 2026-06-16 | Lockheed Martin Ventures | VC Senior Associate | Arlington, VA · onsite | 20 `DISQUALIFIED` | PASSED | Defense/aerospace = his love, but onsite VA (relocation gate) + CVC (no carry gate). |
-| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 18 `DISQUALIFIED` | PASSED | Accelerator; core = outbound sourcing / "super-connector." Sub-Sr-Assoc + likely no carry. |
+| 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | ⭐ **100** | REVIEWING | **Adam's call — the bullseye; already in active conversation.** Contact: Tyler Williams (Co-Founder & Managing Partner, Dallas). |
+| 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 63 | NEW | Adam: "interesting." Direct to MP; IR + infra build; $70–190K + bonus. |
+| 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US, likely) | 60 | NEW | 2nd hire; LP/investor-network + diligence research + systems/AI tooling — strong operating match. Consumer/CPG sector (off-target but he's open). |
+| 2026-06-16 | Amboy Street Ventures | Principal, Life Sciences | Remote | 55 | PASSED | Adam: "doesn't fit my interests or experience." Requires healthcare-VC pedigree he lacks. |
+| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 54 | NEW | Re-opened: carry no longer a gate + Adam will flex title for a strong firm. Caveat: heavy outbound sourcing / "super-connector" flavor. |
+| 2026-06-16 | Lockheed Martin Ventures | VC Senior Associate | Arlington, VA · onsite | 20 `DISQUALIFIED` | PASSED | Defense/aerospace = his love, but onsite VA → relocation gate. |
 | 2026-06-16 | Partners Capital | Senior Associate, VC | San Francisco · onsite | 20 `DISQUALIFIED` | PASSED | Onsite SF → relocation gate. |
 
 ---
@@ -37,15 +37,26 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:**
 -->
 
-### SPLY Capital — VC Associate  ·  Score: 66/100  ·  Status: NEW
-- **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870 (direct posting page returned 403 to automated fetch — listing date corroborated by board, but **confirm it's still live before acting**).
-- **Location / model:** Texas-based (Austin / Dallas). Hub city → hybrid travel-in is plausible; confirm in/out cadence.
-- **Comp signals:** Not disclosed. Carry not stated — **must confirm.**
-- **Why it scored this way:** Role/seniority ~13 (investor seat but heavy fund-ops/LP/IR flavor, "Associate" not clearly Sr.); proximity ~14 (due diligence + closings → real deal exposure); geo 18 (Austin/Dallas hub); comp ~8 (undisclosed, carry unconfirmed); firm 6 (small/early, unknown); sector ~8 (AI / aerospace / defense / construction — defense+aerospace hit his hard-tech love).
-- **Gaps / risks:** (1) Title may be below the Senior-Associate floor — confirm level + track. (2) Description leans fund-operations/LP-comms/fundraising, which is *exactly* his 19days back-office build — strong match, but make sure it's not a pure ops seat with no deal vote. (3) Carry unconfirmed (gate risk).
-- **Warm-intro path:** None known. Texas fund — worth asking Joey / Atento principals if they have a line in.
-- **Tailoring notes:** Lead with the fund-ops-from-scratch build (metrics, LP reporting, back office) + Atento sourcing/diligence. This role rewards his rare combo of fund operations *and* investment exposure. AI-forward fund → foreground his AI fluency.
-- **Next action:** `/score-role` once posting confirmed live; then `/tailor-resume SPLY` (VC-operator cut).
+### SPLY Capital — VC Associate  ·  Score: 100/100 (Adam's call)  ·  Status: REVIEWING ⭐
+- **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm: https://splycapital.com/team · profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870.
+- **Contact:** **Tyler Williams — Co-Founder & Managing Partner** (Dallas). Also Drew Leahy (GP), Haley Swank (CoS & Venture Partner). **Adam is already in active conversation with SPLY.**
+- **Location / model:** Texas-based (Austin / Dallas). Hub → Tulsa-compatible hybrid.
+- **Comp signals:** Not disclosed; raise in conversation (carry no longer treated as a screen).
+- **Why it's the bullseye:** JD = LP communications + fund operations + due diligence + closings + fundraising at an **AI-forward** fund → near one-to-one with his 19days fund-ops build, Atento diligence, and AI fluency. Aerospace/defense in their thesis hits his hard-tech love. This tool independently ranked it #1 with no knowledge of his existing conversation.
+- **Gaps / risks:** Confirm the seat carries a real deal voice (not pure ops) and the level/track. Minor.
+- **Warm-intro path:** Direct — already talking to them. Joey / Atento could reinforce if useful.
+- **Tailoring notes:** Lead with fund-ops-from-scratch (metrics, LP reporting, back office) + Atento sourcing/diligence delivered to a GP. Foreground AI fluency. Mirror their thesis language (AI, aerospace/defense).
+- **Next action:** Outreach drafted to Tyler Williams (2026-06-16). Then `/tailor-resume SPLY` (VC-operator cut).
+
+### Paperboy Ventures — Chief of Staff  ·  Score: 60/100  ·  Status: NEW
+- **Source / link:** https://www.paperboyventures.com/paperboy-cos
+- **Location / model:** Remote (likely — confirm). The CoS is the fund's **second full-time hire** → direct founder proximity.
+- **Comp signals:** Not disclosed.
+- **Why it scored this way:** Role 16 (CoS, with investor/LP-network building + investment research + systems); proximity 16 (2nd hire, direct to the principal); geo 18 (remote, pending confirmation); comp ~9 (undisclosed); firm 6 (small/new); sector ~5 (early-stage **consumer / CPG** — food & beverage; off his hard-tech love, but he's open to anything).
+- **Gaps / risks:** (1) Sector is consumer CPG, not his stated interest — gauge genuine interest. (2) Remote status & comp unconfirmed. (3) Heavy systems/CRM/playbook build — make sure it grows toward real investing.
+- **Warm-intro path:** None known.
+- **Tailoring notes:** Strong fit on mechanics — "build internal systems, implement AI tooling, create repeatable playbooks, grow the LP network" maps directly to his 19days CRM/back-office/Fund-II work + AI fluency. Lead there.
+- **Next action:** Confirm remote + comp; if he's interested in the sector, `/score-role` and `/tailor-resume Paperboy` (CoS cut).
 
 ### TYH Ventures — Chief of Staff to the Managing Partner  ·  Score: 60/100  ·  Status: NEW
 - **Source / link:** https://johngannonblog.com/chief-of-staff-tyh-ventures-in-remote/ (page 403'd to automated fetch; details below from board summary — verify directly).

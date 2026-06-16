@@ -18,13 +18,13 @@ A role's **Fit Score (0–100)** = weighted sum of the factors below.
 
 ## Hard gates (dealbreakers → cap at 20)
 - ❌ Requires **relocation** out of Tulsa (hybrid travel-in is fine; permanent move is not).
-- ❌ **No equity / carry / meaningful ownership** in the comp structure.
 - ❌ Core of the job is **cold calling** / outbound SDR-style prospecting.
 - ❌ **Agency** model (client-services shop billing hours).
-- ❌ Below **Senior Associate** in scope/title with no track up.
-- ❌ Base materially below floor with no offsetting carry (see comp).
+- ❌ Below **Senior Associate** in scope/title with no track up — **waived if the firm is genuinely top-tier** (Adam will flex on title for a great firm with a real track up).
+- ❌ Base materially below floor with no offsetting upside (see comp).
 
 > Note: a role can mention these as *minor* duties without being gated — the gate is when they're the **core** of the role.
+> **Carry/equity is no longer a gate or a scored item** (2026-06-16): it rarely appears in JDs, so we don't filter or score on it. Treat it as a question to raise in conversation, not a screen.
 
 ---
 
@@ -36,6 +36,7 @@ A role's **Fit Score (0–100)** = weighted sum of the factors below.
 - **CVC / Family office / PE investor seat** at right level: 18
 - Strategy / BizOps with ownership & decision-maker proximity: 12
 - Anything more junior or more removed: ≤ 6
+> Title exception: a more junior title at a **top-tier firm** with a clear track up can still score well — Adam will trade title for firm caliber + trajectory.
 
 ### 2. Investor proximity & ownership — 20 pts
 - **Direct, regular contact with founders / MDs / CEOs**: 20
@@ -50,11 +51,11 @@ A role's **Fit Score (0–100)** = weighted sum of the factors below.
 - Onsite-required in a non-commutable city: **0** (also trips the relocation gate if a move is implied)
 
 ### 4. Compensation — 15 pts
-- Base **$150k–$180k+** AND bonus AND **carry/equity**: 15
-- In-range base with carry but light bonus: 12
-- Slightly below base floor but **strong carry**: 9 (carry can compensate)
-- In range but **no carry**: trips the ownership gate
+- Base **$150k–$180k+** AND bonus: 15
+- In-range base, light/no bonus: 11
+- Slightly below base floor but with real upside (bonus/equity): 8
 - Well below floor: ≤ 3
+> Carry/equity is a welcome plus when present but is **not scored and not a gate** — raise it in conversation, don't filter on it.
 
 ### 5. Firm quality & people — 10 pts
 - High performers, strong reputation, sharp team: 10

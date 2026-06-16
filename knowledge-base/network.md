@@ -17,10 +17,11 @@
 <!-- As /find-roles surfaces firms, log any known/2nd-degree contacts here. -->
 | Firm | Contact | Path (1st / 2nd degree) | Status |
 |---|---|---|---|
-| _none yet_ | | | |
+| SPLY Capital | Tyler Williams — Co-Founder & Managing Partner (Dallas) | 1st degree — Adam already in conversation | Outreach drafted 2026-06-16 |
+| SPLY Capital | Drew Leahy — GP · Haley Swank — CoS & Venture Partner | 1st degree (same firm) | — |
 
 ## Outreach log
 <!-- /draft-outreach records who was contacted, when, and via what channel. -->
 | Date | Person / Firm | Channel | Re: | Outcome |
 |---|---|---|---|---|
-| _none yet_ | | | | |
+| 2026-06-16 | Tyler Williams / SPLY Capital | Email | VC Associate role — tool scored it #1 fit | Draft prepared for Adam to send (not auto-sent) |
