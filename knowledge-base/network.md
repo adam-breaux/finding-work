@@ -25,3 +25,4 @@
 | Date | Person / Firm | Channel | Re: | Outcome |
 |---|---|---|---|---|
 | 2026-06-16 | Tyler Williams / SPLY Capital | Email | VC Associate role — tool scored it #1 fit | **SENT by Adam** (already connected; awaiting reply) |
+| 2026-06-16 | Tyler Williams / SPLY Capital | Email (follow-up) | "Forgot to mention" color — $3M Agentech seed (owned, fully subscribed), part-time CFO at $25M val, AdamGPT / internal AI system, aerospace/defense interest | SENT by Adam |
