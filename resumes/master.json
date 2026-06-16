@@ -2,7 +2,7 @@
   "_comment": "Master resume data. /tailor-resume copies this to variants/<name>.json, edits, and renders to .docx. Keep this as the complete source of truth; trim in variants, don't fabricate.",
   "name": "Adam Breaux",
   "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK",
-  "summary": "Operator who deeply understands how companies work and gets into the weeds to get things done. Three years across the full venture lifecycle, from 0-to-1 company builds to fund operations to investment sourcing and diligence. Deep business-evaluation and financial-modeling skills, relentless execution, and fluency with the latest AI tooling.",
+  "summary": "Operator who deeply understands how companies work and gets into the weeds to get things done. Three years across the full venture lifecycle, from 0-to-1 company builds to fund operations to investment sourcing and diligence, plus end-to-end fundraising. First-principles thinker who defines and drives priorities at an uncomfortable pace. Deep business-evaluation and financial-modeling skills, relentless execution, and rare fluency with the latest AI tooling.",
   "sections": [
     {
       "heading": "EXPERIENCE",
@@ -14,11 +14,15 @@
           "dates": "May 2023 – Present",
           "location": "Tulsa, OK",
           "bullets": [
-            "Led Venture 5 from a blank page to a funded company: months of discovery and expert interviews, product ideation, team hiring, first customer contracts, and seed fundraising.",
-            "Built fund operations from scratch: defined the metrics that mattered at venture and studio level, stood up tracking and stakeholder reporting, and ran LP reporting.",
+            "Led Agentech from a blank page to a funded company: drove the venture from a broad 'something in vets' thesis through multiple discovery rounds, a pivot into pet-insurance claims automation, and on to AI-powered insurance-claims servicing. Built the team and coordinated engineering, product, design, and marketing; ran sales directly to the first $600K in ARR.",
+            "Owned venture fundraising end-to-end — e.g., Agentech's $3M seed: long-form investor memo, deck, financial projections, and data room, plus an investor-tracking CRM (staged pipeline, projected amounts, likelihood, stage criteria/actions, weekly cadence). Coordinated legal and accounting for a clean close; the round came together fast and fully subscribed. Ran the same process for multiple in-house ventures.",
+            "Serve as part-time CFO of Agentech (now a $25M valuation) and continue as its Chief of Staff, building an internal AI system that automates proposal writing, morning briefs, and sales-rep coaching from call/email context.",
+            "Built fund operations from scratch: defined the metrics that mattered at venture and studio level, stood up tracking and stakeholder reporting, and ran LP reporting that told each venture's story (the good and the bad). Became the direct point of contact LPs come to for updates.",
             "Stood up the studio's entire back office (HR, payroll, accounting) from zero.",
             "Conducted financial modeling and competitive analysis across 500+ potential competitors; computed fund performance (TVPI) for use in fundraising.",
-            "Built the seed-stage VC networking initiative and a HubSpot CRM to manage relationships, then developed the Fund II narrative, pitch outline, and target-investor database."
+            "Developed the Fund II narrative, pitch, target-investor database, and the HubSpot CRM behind investor relationships.",
+            "Led the studio's annual LP meeting end-to-end — logistics and invites through the studio financials and projections presented to LPs.",
+            "Led automation projects across ventures, building GTM tooling to remove bottlenecks in portfolio companies' processes."
           ]
         },
         {
@@ -82,7 +86,8 @@
         "Financial modeling (three-statement, returns, fund / TVPI-DPI-IRR)",
         "Investment sourcing & diligence; market sizing; competitive analysis",
         "0-to-1 venture building; process design; operations from scratch",
-        "Extreme fluency with modern AI tooling",
+        "Extreme fluency with modern AI tooling (nicknamed 'AdamGPT' by leadership in 2022)",
+        "First-principles thinking; defining and driving priorities at an uncomfortable pace",
         "Relationship-driven, relentless execution, root-cause problem solving"
       ]
     }
