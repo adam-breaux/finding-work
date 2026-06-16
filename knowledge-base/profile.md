@@ -36,3 +36,32 @@
 - **Availability:** Can start now.
 - **Employment status:** Not currently employed.
 - **Confidentiality:** Search is NOT confidential — open/public is fine.
+
+---
+
+## Section 2 — Skills & Expertise
+
+### Genuine depth (hire-me-for-this)
+- **Business evaluation / judgment.** Can assess a business across the full stack:
+  - *"Why does this matter, and why do people want what you're building?"* (problem/demand)
+  - *"How does it work and fit into the market?"* (model, competition, positioning)
+  - **Deep financial understanding** underneath it all.
+- **Process creation.** Building the systems/structure that make work repeatable and efficient.
+- **Driving things to done** at high speed and high accuracy.
+
+### Breadth he did but isn't his core (the "someone had to" bucket)
+- GTM, product, sales. Competent, but NOT what he wants to be hired for or judged on.
+
+### Hard/technical skills
+- **Financial modeling: strong — "any kind."** Three-statement, returns, fund modeling (TVPI/DPI/IRR), etc. This is a real, deep skill.
+- **NOT a data-analytics role.** Does not know SQL or Python and does not want a data-analyst seat.
+- **Technical fluency:** understands technical terms, can use AI to code, but is not a software engineer/developer.
+- **AI/technology: extremely fluent in the latest tools.** This is a genuine differentiator — early/expert adopter.
+
+### Signature strengths
+- Drives projects forward at an unbelievable pace; if it needs to get done, he handles it with impeccable accuracy.
+- Excellent at getting to the **root cause** of an issue or need, **aligning resources**, and pushing forward.
+
+### Credentials
+- MBA — Finance + Entrepreneurship (University of Tulsa, Dec 2023).
+- BS — Exercise Science / Pre-Med (University of Tulsa, May 2021); D1 Cross Country / Track & Field.
