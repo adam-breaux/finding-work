@@ -56,11 +56,13 @@
 - **Financial modeling: strong — "any kind."** Three-statement, returns, fund modeling (TVPI/DPI/IRR), etc. This is a real, deep skill.
 - **NOT a data-analytics role.** Does not know SQL or Python and does not want a data-analyst seat.
 - **Technical fluency:** understands technical terms, can use AI to code, but is not a software engineer/developer.
-- **AI/technology: extremely fluent in the latest tools.** This is a genuine differentiator — early/expert adopter.
+- **AI/technology: extremely fluent in the latest tools.** This is a genuine differentiator — early/expert adopter. **Nicknamed "AdamGPT" by his MD in 2022** for always being on top of the latest tooling. Has led automation / GTM-tooling projects across ventures and is building an internal AI sales system at Agentech.
 
 ### Signature strengths
 - Drives projects forward at an unbelievable pace; if it needs to get done, he handles it with impeccable accuracy.
 - Excellent at getting to the **root cause** of an issue or need, **aligning resources**, and pushing forward.
+- **First-principles thinking** — and the ability to **define and drive priorities at an uncomfortable pace.**
+- **Insatiably curious / meticulous** — when a topic grabs him he learns everything about it; some call it obsessive.
 
 ### Credentials
 - MBA — Finance + Entrepreneurship (University of Tulsa, Dec 2023).
@@ -75,7 +77,8 @@
 - Lead with: business judgment + hands-on execution. Not a specialist seat; an owner/operator.
 
 ### Proudest accomplishments (front-and-center)
-1. **Venture Lead — Venture 5 (0→1).** Took a blank page through months of discovery/research, expert interviews, and product ideation, all the way to team hiring, initial customer contracts, and fundraising. Full-cycle build.
+1. **Venture Lead — Agentech (0→1; the studio's "Venture 5").** Took a blank page — a broad "something in vets" thesis — through multiple discovery rounds, a pivot into pet-insurance claims automation, and on to AI-powered insurance-claims servicing. Built the team and coordinated engineering, product, design, and marketing; ran sales directly to the **first $600K in ARR**. Now serves as Agentech's **part-time CFO** (company at a **$25M valuation**) and continuing **Chief of Staff**, building an internal AI system that automates proposal writing, morning briefs, and sales-rep coaching from call/email context.
+   - **Fundraising (owned end-to-end):** Led Agentech's **$3M seed**. Built the materials (long-form investor memo, deck, financial projections, data room) and the investor-tracking CRM (staged pipeline with projected amounts, likelihood, stage criteria/actions, weekly cadence), seeded a fit-investor pipeline, and coordinated legal + accounting. Result: a fast, **fully-subscribed** round with a clean close. Ran the same process for multiple in-house ventures.
 2. **Fund Operations (built from scratch).** Defined what metrics mattered at venture and studio level, built tracking, stakeholder presentation, and LP reporting (telling each venture's story, good and bad). Became the **direct LP point of contact** for updates; led the **annual LP meeting end-to-end** (logistics through financials/projections). Ran the fundraising process for **two in-house ventures** and developed the Fund II narrative/pitch/CRM. Also stood up the entire back office (HR, payroll, accounting) from zero. Led **automation/GTM tooling projects** to remove bottlenecks across portfolio companies.
 3. **Investment Sourcing — Atento Fellowship.** As 1 of ~12 fellows, sourced **14 of 20 finalists** and **4 of 7** selected to fly to Tulsa to pitch. Later brought back *by request of Atento principals* to help with investment diligence.
 
@@ -165,3 +168,20 @@
 ### References / network / connectors
 - **Joey (boss at 19days)** — strong network, MIT / HBS grad, well-known in Tulsa. Key connector for warm intros.
 - Atento principals (from Section 3) — prior relationship; potential references/connectors.
+
+---
+
+## Section 7 — Personal & Values
+> Useful for relational outreach, culture-fit signal, and finding genuine connection points. Real, not résumé filler.
+
+### Values / working style
+- **Real relationship building** — relationships drive everything.
+- **Honesty and openness.** Gets to the point; doesn't beat around the bush.
+- **Asks uncomfortable questions** to get to the bottom of things — and gets shit done that way.
+- **Meticulous, bordering on obsessive;** insatiably curious once a topic grabs him.
+
+### Life
+- **Family:** wife and a 1-year-old; a Labrador.
+- **Athletics:** former **D1 runner** (team finished **5th at NCAAs**); now a **road and mountain cyclist**.
+- **Reading (avid):** history (currently *Team of Rivals*; also Genghis Khan, Cicero), business/strategy (VC & startup strategy; favorite: *Principles*, Ray Dalio), fantasy (*A Song of Ice and Fire*, *The Count of Monte Cristo*).
+- **Other:** podcasts, walks, gardening, fantasy football.
