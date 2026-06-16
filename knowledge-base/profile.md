@@ -87,3 +87,31 @@
 - **Agency work.**
 - **No ownership** (roles without real ownership/stake).
 - **Working among low performers.**
+
+---
+
+## Section 4 — Wants & Filters
+
+### Target role archetypes (ranked)
+1. **Investor (VC)** — *most interesting by far.* Primary target.
+2. **Chief of Staff.**
+3. Business Strategy / Operations (less interesting).
+4. Corporate Strategy (less interesting).
+5. GM (least interesting).
+
+### Company type & stage
+- **Focus: VC firms.** This is the priority of the search.
+- Won't rule out large companies, but knows he'd fit in less there — deprioritize.
+
+### Industry
+- **Open to anything.** Particular love for **industrial, robotics, physical/hard tech.**
+
+### Day-to-day energy (the positive version)
+- **Fast pace. High ownership. Visible impact.**
+
+### Mission / values
+- Not a major filter. Nature of work + people matter more than mission.
+
+### Structure / proximity
+- **Must be in direct contact with founders / managing directors / CEOs.** Proximity to decision-makers is a requirement.
+- (From Section 2/3: thrives as a high-leverage operator; wants expanding ownership/scope.)
