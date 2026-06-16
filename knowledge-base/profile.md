@@ -65,3 +65,25 @@
 ### Credentials
 - MBA — Finance + Entrepreneurship (University of Tulsa, Dec 2023).
 - BS — Exercise Science / Pre-Med (University of Tulsa, May 2021); D1 Cross Country / Track & Field.
+
+---
+
+## Section 3 — Experience & Story
+
+### Positioning / headline
+- **"An operator who deeply understands how companies work, and can get into the weeds to get things done."**
+- Lead with: business judgment + hands-on execution. Not a specialist seat; an owner/operator.
+
+### Proudest accomplishments (front-and-center)
+1. **Venture Lead — Venture 5 (0→1).** Took a blank page through months of discovery/research, expert interviews, and product ideation, all the way to team hiring, initial customer contracts, and fundraising. Full-cycle build.
+2. **Fund Operations (built from scratch).** Defined what metrics mattered at venture and studio level, built tracking, stakeholder presentation, and LP reporting. Also stood up the entire back office (HR, payroll, accounting) from zero.
+3. **Investment Sourcing — Atento Fellowship.** As 1 of ~12 fellows, sourced **14 of 20 finalists** and **4 of 7** selected to fly to Tulsa to pitch. Later brought back *by request of Atento principals* to help with investment diligence.
+
+### Positioning the "gap"
+- **Young, but unusually strong experience for his age.** Chose 19days intentionally to learn at a rapid pace; now wants to **expand responsibilities / scope of ownership.** Frame youth as deliberate acceleration, not inexperience.
+
+### Never again
+- **Cold calling.**
+- **Agency work.**
+- **No ownership** (roles without real ownership/stake).
+- **Working among low performers.**
