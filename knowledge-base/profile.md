@@ -140,3 +140,28 @@
 
 ### Sources
 - **Look everywhere.** No source restrictions. Defaults to use: LinkedIn Jobs, VC-specific boards (John Gannon's list, fund career pages, Getro/Consider talent networks), Wellfound/AngelList, family-office and PE boards, plus warm-intro/network mapping.
+
+---
+
+## Section 6 — Application Materials & Voice
+
+### Resume
+- Currently **one resume** (the attached "Current"). Wants the tool to build/maintain **tailored versions per role type** (e.g., VC-investor, CoS, operator) cut from a master.
+
+### Voice / tone
+- **Direct and concise** — gets to the point.
+- **Backs claims with concrete examples** of his work.
+- **Extremely relational** in person and at work — *"Relationships drive everything."* Outreach should reflect this warmth.
+
+### Cover letters & outreach
+- **Both channels:** wants to **leverage his network** AND do **direct applications.** Tool should support warm-intro drafting and formal applications.
+
+### Pre-baked answers
+- Deferred for later (will develop reusable answers for "Why VC," "Why this firm," live thesis, pass thesis, "your story," "your edge" in a later pass).
+
+### Proof of work
+- **None packaged yet.** Can write out what he did in detail with examples. Tool can help **produce a memo / market analysis / writing sample** from his real work (high value for VC hiring).
+
+### References / network / connectors
+- **Joey (boss at 19days)** — strong network, MIT / HBS grad, well-known in Tulsa. Key connector for warm intros.
+- Atento principals (from Section 3) — prior relationship; potential references/connectors.
