@@ -76,7 +76,7 @@
 
 ### Proudest accomplishments (front-and-center)
 1. **Venture Lead — Venture 5 (0→1).** Took a blank page through months of discovery/research, expert interviews, and product ideation, all the way to team hiring, initial customer contracts, and fundraising. Full-cycle build.
-2. **Fund Operations (built from scratch).** Defined what metrics mattered at venture and studio level, built tracking, stakeholder presentation, and LP reporting. Also stood up the entire back office (HR, payroll, accounting) from zero.
+2. **Fund Operations (built from scratch).** Defined what metrics mattered at venture and studio level, built tracking, stakeholder presentation, and LP reporting (telling each venture's story, good and bad). Became the **direct LP point of contact** for updates; led the **annual LP meeting end-to-end** (logistics through financials/projections). Ran the fundraising process for **two in-house ventures** and developed the Fund II narrative/pitch/CRM. Also stood up the entire back office (HR, payroll, accounting) from zero. Led **automation/GTM tooling projects** to remove bottlenecks across portfolio companies.
 3. **Investment Sourcing — Atento Fellowship.** As 1 of ~12 fellows, sourced **14 of 20 finalists** and **4 of 7** selected to fly to Tulsa to pitch. Later brought back *by request of Atento principals* to help with investment diligence.
 
 ### Positioning the "gap"

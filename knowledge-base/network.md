@@ -24,4 +24,4 @@
 <!-- /draft-outreach records who was contacted, when, and via what channel. -->
 | Date | Person / Firm | Channel | Re: | Outcome |
 |---|---|---|---|---|
-| 2026-06-16 | Tyler Williams / SPLY Capital | Email | VC Associate role — tool scored it #1 fit | Draft prepared for Adam to send (not auto-sent) |
+| 2026-06-16 | Tyler Williams / SPLY Capital | Email | VC Associate role — tool scored it #1 fit | **SENT by Adam** (already connected; awaiting reply) |
