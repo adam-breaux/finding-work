@@ -115,3 +115,28 @@
 ### Structure / proximity
 - **Must be in direct contact with founders / managing directors / CEOs.** Proximity to decision-makers is a requirement.
 - (From Section 2/3: thrives as a high-leverage operator; wants expanding ownership/scope.)
+
+---
+
+## Section 5 — Search Targets
+
+### Geography strategy (ranked)
+1. **Hybrid anchored in a nearby hub — ideal.** Travel in a few days every week or every other week. Acceptable cities: **Dallas, Austin, Denver, or similar.**
+2. **Remote-friendly VC roles** — great if available, but understood to be rare.
+3. **Tulsa/Oklahoma ecosystem — effectively closed.** He knows it well and they know him; **no current opportunity there.** Do NOT spend search effort locally.
+
+### Seniority / titles
+- **Floor: Senior Associate or Principal.** Will not go below.
+- Open to roles **with a clear track to Partner.**
+- Comp floor still applies: $150–180k + bonus + carry/equity.
+
+### Specific firms
+- No specific target or avoid list yet (open to suggestions later).
+
+### Scope — beyond pure VC
+- **Include:** VC, **Family offices**, **CVC (corporate venture)**, and **PE** (open to it).
+- **Exclude: venture studios** — not a fan at this career stage (despite current role being at one).
+- Accelerators: not mentioned — treat as low priority unless investor-track.
+
+### Sources
+- **Look everywhere.** No source restrictions. Defaults to use: LinkedIn Jobs, VC-specific boards (John Gannon's list, fund career pages, Getro/Consider talent networks), Wellfound/AngelList, family-office and PE boards, plus warm-intro/network mapping.
