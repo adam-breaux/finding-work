@@ -71,23 +71,35 @@
 | ~~Cottonwood Venture Partners~~ → **Montrose Lane** | Houston, TX | VC | ⭐ energy / industrial digitization | (renamed) https://www.montroselane.com | ⛔ renamed to Montrose Lane — re-add under new name; no role found | 2026-06-17 |
 | ~~Deep Space Ventures~~ | Dallas, TX | VC | — | — | ⛔ **defunct** (managing partner arrested 2018; inactive) — do not re-add | 2026-06-17 |
 
-## Tier 2 — Denver / Colorado
+## Tier 2 — Denver / Colorado — ✅ CRAWLED 2026-06-17 (ATS + LinkedIn)
 
-| Firm | Location | Type | Sector ⭐ | Careers/Jobs URL | Status | Last checked |
+> **Result: no machine-verifiable live fund/investor/CoS seat at any of the 13.** None exposes a
+> Greenhouse/Lever/Ashby board (probed across name variants — zero hits), and LinkedIn's public
+> guest search surfaced only **portfolio-company** jobs (Blackhorn→Formic, Matchstick→Intelligems,
+> Service Provider→NXC Imaging) or fuzzy matches at unrelated firms. These are mostly tiny seed funds
+> that fill seats by network, not public posts. Firm career pages aren't on the egress allowlist, so a
+> human click is still required to fully rule out an unposted seat. Nothing met the bar to log to `opportunities.md`.
+
+| Firm | Location | Type | Sector ⭐ | Careers/Jobs URL | Status (result) | Last checked |
 |---|---|---|---|---|---|---|
-| Blackhorn Ventures | Denver, CO | VC | ⭐ industrial / built environment / resource efficiency | https://www.blackhornvc.com (homepage) | 🔲 | — |
-| Foundry | Boulder, CO | VC | generalist (limited new investing) | https://www.foundry.vc (homepage) | 🔲 | — |
-| Access Venture Partners | Westminster, CO | VC | early B2B | https://www.accessvp.com (homepage) | 🔲 | — |
-| Range Ventures | Denver, CO | VC | early / local | https://www.rangevc.com (homepage) | 🔲 | — |
-| Matchstick Ventures | Denver, CO / Mpls | VC | seed generalist | https://www.matchstick.vc (homepage) | 🔲 | — |
-| Stout Street Capital | Denver, CO | VC | seed tech generalist | https://www.stoutstreetcapital.com (homepage) | 🔲 | — |
-| Service Provider Capital | Golden, CO | VC | co-invest / fund-of-funds | https://www.serviceprovidercapital.com (homepage) | 🔲 | — |
-| SpringTime Ventures | Denver, CO | VC | seed | https://www.springtime.vc (homepage) | 🔲 | — |
-| Boulder Ventures | Boulder, CO | VC | IT / life sciences | https://www.boulderventures.com (homepage) | 🔲 | — |
-| Techstars | Boulder, CO | accel / VC | generalist | https://www.techstars.com/careers | 🔲 | — |
-| Royal Street Ventures | Denver, CO / KC | VC | early generalist | https://www.royalstreet.vc (homepage) | 🔲 | — |
-| Greater Colorado Venture Fund | Telluride, CO | VC | rural / seed | https://www.greatercolorado.vc (homepage) | 🔲 | — |
-| Innosphere Ventures | Fort Collins, CO | VC | ⭐ hard science / health / cleantech | https://innosphereventures.org (homepage) | 🔲 | — |
+| Blackhorn Ventures | Denver, CO | VC | ⭐ industrial / built environment / resource efficiency | https://www.blackhornvc.com (homepage) | ⬜ no fund seat — LinkedIn shows only portfolio co (Formic) roles | 2026-06-17 |
+| Foundry | Boulder, CO | VC | generalist (limited new investing) | https://www.foundry.vc (homepage) | ⬜ none — fund winding down new investing; 0 postings | 2026-06-17 |
+| Access Venture Partners | Westminster, CO | VC | early B2B | https://www.accessvp.com (homepage) | ⬜ none found (fuzzy LinkedIn matches only) | 2026-06-17 |
+| Range Ventures | Denver, CO | VC | early / local | https://www.rangevc.com (homepage) | ⬜ none found (fuzzy Denver-area matches only) | 2026-06-17 |
+| Matchstick Ventures | Denver, CO / Mpls | VC | seed generalist | https://www.matchstick.vc (homepage) | ⬜ no fund seat — LinkedIn shows only portfolio co (Intelligems) | 2026-06-17 |
+| Stout Street Capital | Denver, CO | VC | seed tech generalist | https://www.stoutstreetcapital.com (homepage) | ⬜ none found (no results) | 2026-06-17 |
+| Service Provider Capital | Golden, CO | VC | co-invest / fund-of-funds | https://www.serviceprovidercapital.com (homepage) | ⬜ no fund seat — portfolio co only (NXC Imaging); FoF model anyway | 2026-06-17 |
+| SpringTime Ventures | Denver, CO | VC | seed | https://www.springtime.vc (homepage) | ⬜ none found (fuzzy matches only) | 2026-06-17 |
+| Boulder Ventures | Boulder, CO | VC | IT / life sciences | https://www.boulderventures.com (homepage) | ⬜ none found (fuzzy matches only) | 2026-06-17 |
+| Techstars | Boulder, CO | accel / VC | generalist | https://www.techstars.com/careers | ⬜ posts accelerator/program-ops roles (e.g. Accelerator Program Manager, Boulder) — **no investor seat; below floor** | 2026-06-17 |
+| Royal Street Ventures | Denver, CO / KC | VC | early generalist | https://www.royalstreet.vc (homepage) | ⬜ none found (no results) | 2026-06-17 |
+| Greater Colorado Venture Fund | Telluride, CO | VC | rural / seed | https://www.greatercolorado.vc (homepage) | ⬜ none found (no results) | 2026-06-17 |
+| Innosphere Ventures | Fort Collins, CO | VC | ⭐ hard science / health / cleantech | https://innosphereventures.org (homepage) | ⬜ none found (no results) | 2026-06-17 |
+
+> **Incidental Denver-hub leads (NOT Tier 2 firms — surfaced repeatedly during the crawl; on-thesis):**
+> - **Booz Allen Ventures** — *Associate*, Denver, posted 2026-06-13 — ⭐ defense / space / deep-tech CVC ($300M fund). **✅ verified live + scored 82 → logged to `opportunities.md` (NEW). Top new find.**
+> - **GridStor** — *Investment Associate*, Denver, posted 2026-06-16 — ⭐ energy storage / industrial (Goldman-AM-backed). **✅ verified live + scored 70 → logged to `opportunities.md` (NEW); project-finance skills-gap caveat.**
+> - Not yet scored (human-verify first): **Saturn Five** — Operating Partner, Denver, 2026-06-16 · **CB Partners** — Senior Investment Analyst, Denver, 2026-06-09 · **Kava Equity Partners** — Senior Associate (PE), Denver, 2026-06-16.
 
 ## Tier 3 — Remote-friendly + national hard-tech / industrial / defense
 
@@ -137,9 +149,10 @@
 
 ## Tracking
 - **Total firms:** 81 (Tier 1: 33 · Tier 2: 13 · Tier 3: 35) — *2 marked dead/renamed in Tier 1.*
-- **Checked:** 33 / 81 (Tier 1 complete 2026-06-17)
-- **Roles logged to `opportunities.md` this crawl:** 6 (Perot Jain 90 · Ironspring 88 · LiveOak 86 · Silverton 85 · Trust Ventures 74 · HOLT 72) + Capital Factory re-confirmed.
-- **Next:** Tier 2 (Denver/Colorado), then Tier 3 (remote + national hard-tech).
+- **Checked:** 46 / 81 (Tier 1 complete 2026-06-17 · Tier 2 complete 2026-06-17 via ATS + LinkedIn)
+- **Roles logged to `opportunities.md` this crawl:** 6 from Tier 1 (Perot Jain · Ironspring · LiveOak · Silverton · Trust Ventures · HOLT) — **all later verified CLOSED/stale on 2026-06-17, see opportunities.md.** Tier 2 added **0** (no verifiable live fund seat).
+- **Incidental Denver leads from Tier 2 crawl (not yet targets):** GridStor (Investment Associate ⭐), Booz Allen Ventures (Associate ⭐ defense CVC) — human-verify, then `/score-role`.
+- **Next:** Tier 3 (remote + national hard-tech) — most are coastal but hire remote; sector-strong, worth the ATS/LinkedIn sweep.
 - Add firms as discovered; mark dead/wound-down funds ⛔ with a note rather than deleting (so we don't re-add them). Montrose Lane (ex-Cottonwood) to be re-added cleanly under its new name.
 
 > Note: Tier 2 & 3 careers URLs are still **seed entries, not yet verified** — confirm/fix each on first crawl.
