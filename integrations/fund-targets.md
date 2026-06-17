@@ -16,57 +16,60 @@
 3. Update **Status** + **Last checked** for every row you open.
 4. Any open role → score it (`/score-role`) and log it to `opportunities.md`.
 
+> ⚠️ **Crawl note (2026-06-17):** Direct `WebFetch` of fund sites is largely **blocked by
+> anti-bot protection (HTTP 403 / Cloudflare)** — including John Gannon's board. The reliable
+> method is **search-indexed lookups** (firm name + "careers/jobs/associate/principal"), which
+> surface the live posting and its real application URL. Treat John-Gannon-sourced listings as
+> *leads to verify* — they can lag the firm's actual openings.
+>
 > ⚠️ **Reality check on VC fund hiring:** funds rarely post their *own* (non-portfolio)
-> openings publicly — many internal seats are filled via warm intro. So expect most pages
-> to show "no fund roles," and treat this crawl as (a) catching the rare public posting and
-> (b) a target map for the network/warm-intro workflow (`network.md`). Getro/Consider boards
-> linked from a fund usually list **portfolio-company** jobs, not fund roles — note the difference.
+> openings publicly — many internal seats fill via warm intro. Getro/Consider boards linked
+> from a fund usually list **portfolio-company** jobs, not fund roles — note the difference.
 
 ## Legend
 - **Sector ⭐** = hard-tech / industrial / robotics / defense / energy lean (sector bonus).
 - **Type:** VC · CVC (corporate venture) · PE · FO (family office).
-- **Status:** 🔲 not checked · ✅ checked–roles found · ⬜ checked–no fund roles · ⚠️ URL needs fixing.
+- **Status:** 🔲 not checked · ✅ checked–role(s) found · ⬜ checked–no fund roles · ⚠️ URL needs fixing · ⛔ dead/renamed.
 - URLs marked *(homepage)* still need the careers link located on first crawl.
 
 ---
 
-## Tier 1 — Texas hubs (Austin · DFW · Houston / San Antonio)
+## Tier 1 — Texas hubs (Austin · DFW · Houston / San Antonio) — ✅ CRAWLED 2026-06-17
 
-| Firm | Location | Type | Sector ⭐ | Careers/Jobs URL | Status | Last checked |
+| Firm | Location | Type | Sector ⭐ | Careers/Jobs URL | Status (result) | Last checked |
 |---|---|---|---|---|---|---|
-| 8VC | Austin, TX | VC | ⭐ deep tech / defense / industrials / bio | https://www.8vc.com/careers | 🔲 | — |
-| Ironspring Ventures | Austin, TX | VC | ⭐ industrial / construction / supply chain | https://www.ironspringvc.com (homepage) | 🔲 | — |
-| Trust Ventures | Austin, TX | VC | ⭐ hard tech in regulated industries / energy | https://www.trustventures.com (homepage) | 🔲 | — |
-| KdT Ventures | Austin, TX | VC | ⭐ deep science / bio / chem / climate | https://www.kdtvc.com (homepage) | 🔲 | — |
-| Ecliptic Capital | Austin, TX | VC | ⭐ deep tech / frontier | https://www.ecliptic.vc (homepage) | 🔲 | — |
-| SCOUT Ventures | Austin, TX / NY | VC | ⭐ dual-use / defense / frontier (veteran-led) | https://www.scout.vc (homepage) | 🔲 | — |
-| Moonshots Capital | Austin, TX | VC | ⭐ generalist, veteran-led (some defense) | https://www.moonshotscapital.com (homepage) | 🔲 | — |
-| Capital Factory | Austin / Dallas, TX | VC / accel | ⭐ generalist + TX defense network | https://www.capitalfactory.com/careers | 🔲 | — |
-| Trammell Venture Partners | Austin, TX | VC | bitcoin / early | https://www.tvp.vc (homepage) | 🔲 | — |
-| LiveOak Venture Partners | Austin, TX | VC | generalist / B2B (Texas) | https://liveoakvp.com (homepage) | 🔲 | — |
-| S3 Ventures | Austin, TX | VC | B2B / healthcare / infrastructure (TX-only) | https://www.s3vc.com (homepage) | 🔲 | — |
-| ATX Venture Partners | Austin, TX | VC | B2B SaaS / data | https://www.atxventures.com (homepage) | 🔲 | — |
-| Silverton Partners | Austin, TX | VC | generalist seed | https://www.silvertonpartners.com (homepage) | 🔲 | — |
-| Next Coast Ventures | Austin, TX | VC | consumer / B2B | https://www.nextcoastventures.com (homepage) | 🔲 | — |
-| Elsewhere Partners | Austin, TX | VC (growth) | B2B software | https://elsewhere.com (homepage) | 🔲 | — |
-| Sante Ventures | Austin, TX | VC | healthcare / biotech | https://www.santeventures.com (homepage) | 🔲 | — |
-| Breyer Capital | Austin, TX | VC | AI / generalist | https://www.breyercapital.com (homepage) | 🔲 | — |
-| Multicoin Capital | Austin, TX | VC | crypto | https://www.multicoin.capital (homepage) | 🔲 | — |
-| Tritium Partners | Austin, TX | PE (growth) | B2B / services | https://www.tritiumpartners.com (homepage) | 🔲 | — |
-| Vista Equity Partners | Austin, TX | PE | enterprise software (large) | https://www.vistaequitypartners.com/careers | 🔲 | — |
-| Active Capital | San Antonio, TX | VC | B2B SaaS infrastructure | https://www.activecapital.com (homepage) | 🔲 | — |
-| HOLT Ventures | San Antonio, TX | CVC | ⭐ industrial / heavy equipment / construction | https://www.holtventures.com (homepage) | 🔲 | — |
-| Perot Jain | Dallas, TX | VC | ⭐ industrial / real estate tech / hard tech | https://www.perotjain.com (homepage) | 🔲 | — |
-| Dallas Venture Capital (DVC) | Dallas, TX | VC | B2B SaaS / AI | https://www.dallasventurecapital.com (homepage) | 🔲 | — |
-| Green Park & Golf Ventures | Dallas, TX | VC | healthcare / B2B | https://www.gpgventures.com (homepage) | 🔲 | — |
-| RevTech Ventures | Dallas, TX | VC | retail / commerce tech | https://www.revtech.com (homepage) | 🔲 | — |
-| Deep Space Ventures | Dallas, TX | VC | consumer / B2B / seed | https://www.deepspacevc.com (homepage) | 🔲 | — |
-| Naya Ventures | Dallas, TX | VC | B2B / mobile | https://www.nayaventures.com (homepage) | 🔲 | — |
-| Mercury Fund | Houston, TX | VC | ⭐ SaaS / data / industrial software | https://www.mercuryfund.com (homepage) | 🔲 | — |
-| Cottonwood Venture Partners | Houston, TX | VC | ⭐ energy / industrial digitization | https://www.cottonwoodvp.com (homepage) | 🔲 | — |
-| Genesis Park | Houston, TX | VC / PE | ⭐ aerospace / industrial | https://www.genesisparklp.com (homepage) | 🔲 | — |
-| New Climate Ventures | Houston, TX | VC | ⭐ climate / energy | https://www.newclimateventures.com (homepage) | 🔲 | — |
-| Artemis Fund | Houston, TX | VC | fintech / care / commerce | https://www.theartemisfund.com (homepage) | 🔲 | — |
+| Perot Jain | Dallas, TX | VC | ⭐ industrial / real estate tech / hard tech | https://perotjain.com/job-openings/ | ✅ **Principal + Associate** → logged (90) | 2026-06-17 |
+| Ironspring Ventures | Austin, TX | VC | ⭐ industrial / construction / supply chain | https://ironspring.com | ✅ **Principal** → logged (88). *Seat may be SF/filled — verify* | 2026-06-17 |
+| 8VC | Austin, TX | VC | ⭐ deep tech / defense / industrials / bio | https://www.8vc.com/jobs | ✅ CoS/platform roles on Ashby board (Dallas/Austin) — scan directly | 2026-06-17 |
+| Trust Ventures | Austin, TX | VC | ⭐ hard tech in regulated industries / energy | https://www.trustventures.com | ✅ **Investment Associate** (Austin/remote) → logged (74) | 2026-06-17 |
+| HOLT Ventures | San Antonio, TX | CVC | ⭐ industrial / heavy equipment / construction | https://www.holtventures.com (homepage) | ✅ Associate/Principal/Analyst → logged (72); confirm level | 2026-06-17 |
+| Capital Factory | Austin / Dallas, TX | VC / accel | ⭐ generalist + TX defense network | https://jobs.capitalfactory.com | ✅ Venture Associate + IR Associate → already in pipeline (54) | 2026-06-17 |
+| LiveOak Venture Partners | Austin, TX | VC | generalist / B2B (Texas) | https://jobs.liveoakvp.com | ✅ **Principal (partner-track)** + Associate → logged (86) | 2026-06-17 |
+| Silverton Partners | Austin, TX | VC | generalist seed | https://jobs.silvertonpartners.com | ✅ **Principal (partner-track)** + Associate → logged (85); confirm open seat | 2026-06-17 |
+| S3 Ventures | Austin, TX | VC | B2B / healthcare / infrastructure (TX-only) | https://jobs.s3vc.com | ⬜ Associate only — onsite Austin, up-or-out, below floor → pass | 2026-06-17 |
+| Mercury Fund | Houston, TX | VC | ⭐ SaaS / data / industrial software | https://mercuryfund.com/position-opening-analyst/ | ⬜ Analyst only — below floor → pass | 2026-06-17 |
+| SCOUT Ventures | Austin, TX / NY | VC | ⭐ dual-use / defense / frontier (veteran-led) | https://www.scout.vc | ⬜ Associate (NYC) — onsite + below floor → pass | 2026-06-17 |
+| Sante Ventures | Austin, TX | VC | healthcare / biotech | https://www.santeventures.com | ⬜ Sr Analyst (healthcare) — below floor + off-sector → pass | 2026-06-17 |
+| Tritium Partners | Austin, TX | PE (growth) | B2B / services / supply chain | http://www.tritiumpartners.com/pe-associate-job-posting-tritium-partners/ | ⬜ PE Associate — title below floor; PE secondary → low maybe | 2026-06-17 |
+| Vista Equity Partners | Austin, TX | PE | enterprise software (large) | https://www.vistaequitypartners.com/careers | ⬜ multiple PE roles — large firm, deprioritized | 2026-06-17 |
+| Moonshots Capital | Austin, TX | VC | ⭐ generalist, veteran-led (some defense) | https://www.moonshotscapital.com | ⬜ no current senior seat — monitor (posts Assoc/Analyst) | 2026-06-17 |
+| KdT Ventures | Austin, TX | VC | ⭐ deep science / bio / chem / climate | https://www.kdtvc.com | ⬜ no fund roles open | 2026-06-17 |
+| Ecliptic Capital | Austin, TX | VC | ⭐ deep tech / climate / materials / med | https://www.ecliptic.vc | ⬜ no fund roles open | 2026-06-17 |
+| ATX Venture Partners | Austin, TX | VC | B2B SaaS / frontier / marketplaces | https://www.atxventurepartners.com | ⬜ no specific senior seat found | 2026-06-17 |
+| Next Coast Ventures | Austin, TX | VC | consumer / B2B | https://www.nextcoastventures.com | ⬜ none found | 2026-06-17 |
+| Elsewhere Partners | Austin, TX | VC (growth) | B2B software (non-hub outliers) | https://elsewhere.com (homepage) | ⬜ none found | 2026-06-17 |
+| Breyer Capital | Austin, TX | VC | AI / generalist | https://breyercapital.com | ⬜ none found | 2026-06-17 |
+| Multicoin Capital | Austin, TX | VC | crypto | https://www.multicoin.capital | ⬜ none confirmed (crypto sector) | 2026-06-17 |
+| Trammell Venture Partners | Austin, TX | VC | bitcoin / early | https://tvp.fund/jobs/ | ⬜ board = portfolio bitcoin startups, no fund role | 2026-06-17 |
+| Active Capital | San Antonio, TX | VC | B2B SaaS infrastructure | https://www.activecapital.com | ⬜ none found (small team) | 2026-06-17 |
+| Dallas Venture Capital (DVC) / Naya | Irving, TX | VC | B2B SaaS / AI (relaunched as Dallas Venture Partners) | https://www.dallasventurecapital.com | ⬜ none found | 2026-06-17 |
+| Green Park & Golf Ventures | Dallas, TX | VC | healthcare / medical | https://www.gpgventures.com | ⬜ none — healthcare focus, 5-person team | 2026-06-17 |
+| RevTech Ventures | Dallas, TX | VC | retail / commerce tech | https://revtechventures.com | ⬜ internship only — below floor → pass | 2026-06-17 |
+| New Climate Ventures | Houston, TX | VC | ⭐ climate / energy | https://www.newclimateventures.com | ⬜ no info / no roles found | 2026-06-17 |
+| Artemis Fund | Houston, TX | VC | fintech / care / commerce | https://www.theartemisfund.com | ⬜ none found | 2026-06-17 |
+| Genesis Park | Houston, TX | **PE** (reclassified) | aerospace / industrial — but **middle-market PE**, not VC | https://genesis-park.com | ⬜ no VC seats; middle-market PE | 2026-06-17 |
+| ~~Cottonwood Venture Partners~~ → **Montrose Lane** | Houston, TX | VC | ⭐ energy / industrial digitization | (renamed) https://www.montroselane.com | ⛔ renamed to Montrose Lane — re-add under new name; no role found | 2026-06-17 |
+| ~~Deep Space Ventures~~ | Dallas, TX | VC | — | — | ⛔ **defunct** (managing partner arrested 2018; inactive) — do not re-add | 2026-06-17 |
 
 ## Tier 2 — Denver / Colorado
 
@@ -133,11 +136,10 @@
 ---
 
 ## Tracking
-- **Total firms:** 81 (Tier 1: 33 · Tier 2: 13 · Tier 3: 35)
-- **Checked:** 0 / 81
-- **Roles logged:** 0
-- Add firms as discovered; mark dead/wound-down funds with ~~strikethrough~~ and a note rather than deleting (so we don't re-add them).
+- **Total firms:** 81 (Tier 1: 33 · Tier 2: 13 · Tier 3: 35) — *2 marked dead/renamed in Tier 1.*
+- **Checked:** 33 / 81 (Tier 1 complete 2026-06-17)
+- **Roles logged to `opportunities.md` this crawl:** 6 (Perot Jain 90 · Ironspring 88 · LiveOak 86 · Silverton 85 · Trust Ventures 74 · HOLT 72) + Capital Factory re-confirmed.
+- **Next:** Tier 2 (Denver/Colorado), then Tier 3 (remote + national hard-tech).
+- Add firms as discovered; mark dead/wound-down funds ⛔ with a note rather than deleting (so we don't re-add them). Montrose Lane (ex-Cottonwood) to be re-added cleanly under its new name.
 
-> Note: careers URLs are **seed entries from the curation pass, not yet verified**.
-> Confirm/fix each on first crawl — several smaller funds may not host a public careers page,
-> in which case mark ⬜ and route to the warm-intro map in `network.md`.
+> Note: Tier 2 & 3 careers URLs are still **seed entries, not yet verified** — confirm/fix each on first crawl.

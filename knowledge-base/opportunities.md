@@ -13,11 +13,17 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 
 | Date found | Firm | Role | Loc / Model | Score | Status | Notes |
 |---|---|---|---|---|---|---|
+| 2026-06-17 | Perot Jain | VC Principal | Dallas, TX · hybrid-able | **90** | NEW | Tier-1 crawl. Industrial / real-estate / hard tech (Ross Perot Jr. + Anurag Jain). Bullseye geo+sector+level. Confirm live + comp: perotjain.com/job-openings. |
+| 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | **88** | NEW | Tier-1 crawl. Digital-industrial (construction / mfg / logistics / energy) — sector bullseye, Fund II $100M. Caveat: a Principal recently joined (SF) — confirm the Austin seat is open. Site: ironspring.com. |
+| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | **86** | NEW | Tier-1 crawl. Established TX generalist / B2B; Principal is partner-track. Apply via jobs.liveoakvp.com (Associate alt: Associate@liveoak.vc). Confirm Principal seat is live. |
+| 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | **85** | NEW | Tier-1 crawl. Most-active / longest-standing TX firm ($655M AUM); partner-track. Caveat: added + promoted Principals Aug-2025 — confirm an open seat. jobs.silvertonpartners.com. |
+| 2026-06-17 | Trust Ventures | Investment Associate | Austin / remote | **74** | NEW | Tier-1 crawl. Hard tech in regulated industries / energy (sector plus); remote-friendly. Below Sr-Associate floor — flex only if he likes the firm. |
+| 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | **72** | NEW | Tier-1 crawl. Industrial / construction / heavy-equipment CVC (Holt Cat) — sector bullseye. Confirm current level (Analyst vs Assoc/Principal) + travel cadence from Tulsa. |
 | 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | ⭐ **100** | REVIEWING | **Adam's call — the bullseye; already in active conversation.** Contact: Tyler Williams (Co-Founder & Managing Partner, Dallas). |
 | 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 63 | NEW | Adam: "interesting." Direct to MP; IR + infra build; $70–190K + bonus. |
 | 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US, likely) | 60 | NEW | 2nd hire; LP/investor-network + diligence research + systems/AI tooling — strong operating match. Consumer/CPG sector (off-target but he's open). |
 | 2026-06-16 | Amboy Street Ventures | Principal, Life Sciences | Remote | 55 | PASSED | Adam: "doesn't fit my interests or experience." Requires healthcare-VC pedigree he lacks. |
-| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 54 | NEW | Re-opened: carry no longer a gate + Adam will flex title for a strong firm. Caveat: heavy outbound sourcing / "super-connector" flavor. |
+| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 54 | NEW | Re-opened: carry no longer a gate + Adam will flex title for a strong firm. Caveat: heavy outbound sourcing / "super-connector" flavor. **Re-confirmed live 2026-06-17 (Tier-1 crawl); also an Investor Relations Associate posting across TX offices.** |
 | 2026-06-16 | Lockheed Martin Ventures | VC Senior Associate | Arlington, VA · onsite | 20 `DISQUALIFIED` | PASSED | Defense/aerospace = his love, but onsite VA → relocation gate. |
 | 2026-06-16 | Partners Capital | Senior Associate, VC | San Francisco · onsite | 20 `DISQUALIFIED` | PASSED | Onsite SF → relocation gate. |
 
@@ -36,6 +42,36 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Tailoring notes:** (what to emphasize in resume/outreach)
 - **Next action:**
 -->
+
+### Perot Jain — VC Principal  ·  Score: 90/100  ·  Status: NEW
+- **Source / link:** Tier-1 career-page crawl (2026-06-17). Listed on perotjain.com/job-openings and surfaced via John Gannon's board ("VC Principal @ Perot Jain in Dallas, TX"; also a VC Associate). **Verify the posting is live** — John Gannon listings can lag.
+- **Location / model:** Dallas, TX. Hub → Tulsa-compatible hybrid/travel-in.
+- **Comp signals:** Undisclosed; Principal-at-VC → likely in/above his $150–180K floor + carry typical. Raise in conversation.
+- **Why it scored this way:** Role 25 (VC Principal); proximity 20 (Principal → direct deal + founder contact); geo 18 (Dallas hub); comp ~10 (undisclosed but level implies in-range); firm 8 (Ross Perot Jr. + Anurag Jain, reputable, lean); sector 10 (industrial / real-estate tech / transformative hard tech — his love). ≈ 90.
+- **Gaps / risks:** Confirm the posting is current and the level/track; pin comp. No known warm intro yet.
+- **Warm-intro path:** None known — check if Joey/Atento touch the Perot/Jain network.
+- **Tailoring notes:** Lead with hard-tech/industrial affinity + 0→1 venture-building (Agentech) + diligence (Atento) + fund ops. Mirror their "transformative technology / early-stage" language.
+- **Next action:** Verify live → `/score-role` deep-dive → `/tailor-resume PerotJain` (VC-investor cut). Look for a warm path.
+
+### Ironspring Ventures — VC Principal  ·  Score: 88/100  ·  Status: NEW
+- **Source / link:** Tier-1 crawl (2026-06-17). Surfaced via John Gannon ("VC Principal @ Ironspring Ventures in Austin, TX"). Firm site: ironspring.com (note: the seed list had a wrong domain — corrected). **Verify live.**
+- **Location / model:** Austin, TX (firm is Austin-based; recent Principal hire is SF-based → role may be location-flexible). Hub → Tulsa-compatible.
+- **Comp signals:** Undisclosed; Principal level. Raise in conversation.
+- **Why it scored this way:** Role 25 (Principal); proximity 20; geo 18 (Austin, possibly flexible); comp ~10; firm 8 (focused digital-industrial fund, Fund II $100M); sector 10 (construction / manufacturing / transport & logistics / alt-energy = bullseye hard tech). ≈ 88.
+- **Gaps / risks:** They recently announced a Principal (Drew Kriens, SF) — the seat may already be filled; **confirm before investing effort.** No warm intro known.
+- **Warm-intro path:** None known.
+- **Tailoring notes:** This is his single best sector match in Tier 1 — foreground industrial/physical-economy interest, operating rigor, and AI-tooling for industrial GTM. Speak their "digital industrial" thesis.
+- **Next action:** Confirm seat open → `/score-role` → `/tailor-resume Ironspring` (VC-investor, hard-tech cut).
+
+### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 86/100  ·  Status: NEW
+- **Source / link:** Tier-1 crawl (2026-06-17). Roles via jobs.liveoakvp.com and John Gannon (Associate / Principal / Partner postings); Associate applications to Associate@liveoak.vc. **Verify the Principal seat is live.**
+- **Location / model:** Austin, TX. Hub → Tulsa-compatible.
+- **Comp signals:** Undisclosed; Principal/partner-track.
+- **Why it scored this way:** Role 25 (Principal, partner-track); proximity 20; geo 18 (Austin); comp ~10; firm 8 (established TX firm, $600M+); sector 7 (generalist / B2B — strong but not his hard-tech love). ≈ 86.
+- **Gaps / risks:** Confirm a Principal (not just Associate) seat is open; generalist sector. No warm intro known.
+- **Warm-intro path:** None known.
+- **Tailoring notes:** Lead with business-judgment + operating depth + Texas ecosystem fit; de-emphasize sector specialization.
+- **Next action:** Confirm Principal seat → `/score-role` → `/tailor-resume LiveOak` (VC-investor cut).
 
 ### SPLY Capital — VC Associate  ·  Score: 100/100 (Adam's call)  ·  Status: REVIEWING ⭐
 - **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm: https://splycapital.com/team · profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870.
