@@ -38,8 +38,8 @@
 
 | Firm | Location | Type | Sector ⭐ | Careers/Jobs URL | Status (result) | Last checked |
 |---|---|---|---|---|---|---|
-| Perot Jain | Dallas, TX | VC | ⭐ industrial / real estate tech / hard tech | https://perotjain.com/job-openings/ | ✅ **Principal + Associate** → logged (90) | 2026-06-17 |
-| Ironspring Ventures | Austin, TX | VC | ⭐ industrial / construction / supply chain | https://ironspring.com | ✅ **Principal** → logged (88). *Seat may be SF/filled — verify* | 2026-06-17 |
+| Perot Jain | Dallas, TX | VC | ⭐ industrial / real estate tech / hard tech | https://perotjain.com/job-openings/ | ✅ logged (80). *Principal needs 7+ yrs → target Associate; postings 2023-dated, verify* | 2026-06-17 |
+| Ironspring Ventures | Austin, TX | VC | ⭐ industrial / construction / supply chain | https://ironspring.com | ⛔ **Principal seats filled Mar-2025** (logged 88, PASSED — keep warm; best sector match) | 2026-06-17 |
 | 8VC | Austin, TX | VC | ⭐ deep tech / defense / industrials / bio | https://www.8vc.com/jobs | ✅ CoS/platform roles on Ashby board (Dallas/Austin) — scan directly | 2026-06-17 |
 | Trust Ventures | Austin, TX | VC | ⭐ hard tech in regulated industries / energy | https://www.trustventures.com | ✅ **Investment Associate** (Austin/remote) → logged (74) | 2026-06-17 |
 | HOLT Ventures | San Antonio, TX | CVC | ⭐ industrial / heavy equipment / construction | https://www.holtventures.com (homepage) | ✅ Associate/Principal/Analyst → logged (72); confirm level | 2026-06-17 |

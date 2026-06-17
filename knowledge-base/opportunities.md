@@ -13,12 +13,12 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 
 | Date found | Firm | Role | Loc / Model | Score | Status | Notes |
 |---|---|---|---|---|---|---|
-| 2026-06-17 | Perot Jain | VC Principal | Dallas, TX · hybrid-able | **90** | NEW | Tier-1 crawl. Industrial / real-estate / hard tech (Ross Perot Jr. + Anurag Jain). Bullseye geo+sector+level. Confirm live + comp: perotjain.com/job-openings. |
-| 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | **88** | NEW | Tier-1 crawl. Digital-industrial (construction / mfg / logistics / energy) — sector bullseye, Fund II $100M. Caveat: a Principal recently joined (SF) — confirm the Austin seat is open. Site: ironspring.com. |
-| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | **86** | NEW | Tier-1 crawl. Established TX generalist / B2B; Principal is partner-track. Apply via jobs.liveoakvp.com (Associate alt: Associate@liveoak.vc). Confirm Principal seat is live. |
-| 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | **85** | NEW | Tier-1 crawl. Most-active / longest-standing TX firm ($655M AUM); partner-track. Caveat: added + promoted Principals Aug-2025 — confirm an open seat. jobs.silvertonpartners.com. |
-| 2026-06-17 | Trust Ventures | Investment Associate | Austin / remote | **74** | NEW | Tier-1 crawl. Hard tech in regulated industries / energy (sector plus); remote-friendly. Below Sr-Associate floor — flex only if he likes the firm. |
-| 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | **72** | NEW | Tier-1 crawl. Industrial / construction / heavy-equipment CVC (Holt Cat) — sector bullseye. Confirm current level (Analyst vs Assoc/Principal) + travel cadence from Tulsa. |
+| 2026-06-17 | Perot Jain | VC Associate (Principal = stretch) | Dallas, TX · hybrid-able | **80** | NEW | Verified: strong FIRM fit (industrial/hard tech, Dallas). **Principal needs 7+ yrs investing — Adam has ~3 → target the Associate / argue Sr-Associate.** Postings look 2023-dated; confirm live: perotjain.com/job-openings. |
+| 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | 88 | PASSED (seats filled) | **Verified filled:** added 2 Principals Mar-2025 (Reddy, Natbony); posting was Jul-2024. Best sector match in Tier 1 — **keep warm via intro for a future seat**, not an active app. ironspring.com. |
+| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | **80** | NEW | Established TX generalist/B2B; partner-track tied to fund expansion. **No 2026-current posting confirmed — likely stale; verify on jobs.liveoakvp.com before effort.** |
+| 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | **78** | NEW | Top TX firm ($655M). **Recently filled/promoted Principals Aug-2025 → open seat doubtful; verify** at silvertonpartners.com/open-positions (investment contact: principal@silvertonpartners.com). |
+| 2026-06-17 | Trust Ventures | Investment Analyst / Associate | Remote (occasional Austin travel) | **72** | NEW | **Verified live + remote.** Hard tech in regulated industries (sector plus). Asks 1–2 yrs → junior/below floor; he'd be a senior applicant. Realistic foot-in-door at a remote, sector-relevant fund. |
+| 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | **72** | NEW | Industrial/construction/heavy-equipment CVC (Holt Cat) — sector bullseye. Confirm current level (Analyst vs Assoc/Principal) + travel cadence from Tulsa. |
 | 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | ⭐ **100** | REVIEWING | **Adam's call — the bullseye; already in active conversation.** Contact: Tyler Williams (Co-Founder & Managing Partner, Dallas). |
 | 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 63 | NEW | Adam: "interesting." Direct to MP; IR + infra build; $70–190K + bonus. |
 | 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US, likely) | 60 | NEW | 2nd hire; LP/investor-network + diligence research + systems/AI tooling — strong operating match. Consumer/CPG sector (off-target but he's open). |
@@ -43,35 +43,48 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:**
 -->
 
-### Perot Jain — VC Principal  ·  Score: 90/100  ·  Status: NEW
-- **Source / link:** Tier-1 career-page crawl (2026-06-17). Listed on perotjain.com/job-openings and surfaced via John Gannon's board ("VC Principal @ Perot Jain in Dallas, TX"; also a VC Associate). **Verify the posting is live** — John Gannon listings can lag.
+### Perot Jain — VC Associate (Principal = stretch)  ·  Score: 80/100  ·  Status: NEW
+- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). perotjain.com/job-openings; John Gannon postings for VC Principal (Dallas), VC Principal (SF), VC Associate (Dallas); LinkedIn Investment Principal. **Postings appear 2023-dated — confirm current.**
 - **Location / model:** Dallas, TX. Hub → Tulsa-compatible hybrid/travel-in.
-- **Comp signals:** Undisclosed; Principal-at-VC → likely in/above his $150–180K floor + carry typical. Raise in conversation.
-- **Why it scored this way:** Role 25 (VC Principal); proximity 20 (Principal → direct deal + founder contact); geo 18 (Dallas hub); comp ~10 (undisclosed but level implies in-range); firm 8 (Ross Perot Jr. + Anurag Jain, reputable, lean); sector 10 (industrial / real-estate tech / transformative hard tech — his love). ≈ 90.
-- **Gaps / risks:** Confirm the posting is current and the level/track; pin comp. No known warm intro yet.
-- **Warm-intro path:** None known — check if Joey/Atento touch the Perot/Jain network.
-- **Tailoring notes:** Lead with hard-tech/industrial affinity + 0→1 venture-building (Agentech) + diligence (Atento) + fund ops. Mirror their "transformative technology / early-stage" language.
-- **Next action:** Verify live → `/score-role` deep-dive → `/tailor-resume PerotJain` (VC-investor cut). Look for a warm path.
+- **Comp signals:** Undisclosed. Raise in conversation.
+- **Why it scored this way:** Strong *firm* fit (industrial / mobility / real-estate / gov-defense tech = his hard-tech love; Dallas hub; Ross Perot Jr. + Anurag Jain). **But the Principal JD requires 7+ years of VC/PE investing experience — Adam has ~3.** So the realistic seat is the **Associate** (below his Sr-Associate floor, but he flexes for fit/firm). Scored as Associate: role ~16, proximity 18, geo 18, comp ~10, firm 8, sector 10 ≈ 80.
+- **Gaps / risks:** Experience-level mismatch for Principal. Associate is below his stated floor (mitigated by his SPLY precedent + title-flex for strong firms). Confirm postings are live.
+- **Warm-intro path:** None known — check whether Joey/Atento touch the Perot/Jain or Dallas network. **High-value to find one** given the firm's caliber.
+- **Tailoring notes:** Lead with hard-tech/industrial affinity + Atento sourcing/diligence delivered to a GP + 0→1 build (Agentech) + financial modeling. Mirror "transformative technology / early-stage / supply chain / mobility." Make the "deep-by-reps, ready to own deals" case for punching above the Associate title.
+- **Next action:** Verify live → seek warm intro → if Associate, decide with Adam whether to pursue below floor → `/tailor-resume PerotJain` (VC-investor, hard-tech cut).
 
-### Ironspring Ventures — VC Principal  ·  Score: 88/100  ·  Status: NEW
-- **Source / link:** Tier-1 crawl (2026-06-17). Surfaced via John Gannon ("VC Principal @ Ironspring Ventures in Austin, TX"). Firm site: ironspring.com (note: the seed list had a wrong domain — corrected). **Verify live.**
-- **Location / model:** Austin, TX (firm is Austin-based; recent Principal hire is SF-based → role may be location-flexible). Hub → Tulsa-compatible.
-- **Comp signals:** Undisclosed; Principal level. Raise in conversation.
-- **Why it scored this way:** Role 25 (Principal); proximity 20; geo 18 (Austin, possibly flexible); comp ~10; firm 8 (focused digital-industrial fund, Fund II $100M); sector 10 (construction / manufacturing / transport & logistics / alt-energy = bullseye hard tech). ≈ 88.
-- **Gaps / risks:** They recently announced a Principal (Drew Kriens, SF) — the seat may already be filled; **confirm before investing effort.** No warm intro known.
-- **Warm-intro path:** None known.
-- **Tailoring notes:** This is his single best sector match in Tier 1 — foreground industrial/physical-economy interest, operating rigor, and AI-tooling for industrial GTM. Speak their "digital industrial" thesis.
-- **Next action:** Confirm seat open → `/score-role` → `/tailor-resume Ironspring` (VC-investor, hard-tech cut).
+### Ironspring Ventures — VC Principal  ·  Score: 88/100 (fit-if-open)  ·  Status: PASSED — seats filled, keep warm
+- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). John Gannon "VC Principal @ Ironspring Ventures in Austin, TX" (Jul-2024). Firm: ironspring.com.
+- **Verified status:** **Likely filled.** VCWire (Mar-2025): Ironspring added *two* Principals — Natan Reddy and Sam Natbony. The Jul-2024 posting predates those hires, so the seat is almost certainly closed.
+- **Location / model:** Austin, TX. Fund II = $100M. Sector = construction / manufacturing / transport & logistics / alt-energy.
+- **Why it still matters:** This is Adam's **single best sector match** in Tier 1 (digital-industrial = his love). Even with no open seat, it's the top relationship to build for a future role.
+- **Next action:** **Don't apply to a closed req.** Build a relationship — warm intro to a partner or one of the new Principals; follow the fund; revisit when they raise Fund III or post a new seat. Possible writing-sample play: a short industrial-tech market memo aimed at their thesis.
 
-### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 86/100  ·  Status: NEW
-- **Source / link:** Tier-1 crawl (2026-06-17). Roles via jobs.liveoakvp.com and John Gannon (Associate / Principal / Partner postings); Associate applications to Associate@liveoak.vc. **Verify the Principal seat is live.**
-- **Location / model:** Austin, TX. Hub → Tulsa-compatible.
-- **Comp signals:** Undisclosed; Principal/partner-track.
-- **Why it scored this way:** Role 25 (Principal, partner-track); proximity 20; geo 18 (Austin); comp ~10; firm 8 (established TX firm, $600M+); sector 7 (generalist / B2B — strong but not his hard-tech love). ≈ 86.
-- **Gaps / risks:** Confirm a Principal (not just Associate) seat is open; generalist sector. No warm intro known.
+### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 80/100  ·  Status: NEW — verify live
+- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). jobs.liveoakvp.com; John Gannon Associate/Principal/Partner postings; Associate apps → Associate@liveoak.vc.
+- **Verified status:** Principal described as partner-track tied to fund expansion, **but no current 2026 posting confirmed — treat as possibly stale.**
+- **Location / model:** Austin, TX. Hub → Tulsa-compatible. Sector: generalist / B2B (strong, not his hard-tech love).
+- **Why it scored this way:** Role ~25 (Principal/partner-track) *if open*; proximity 20; geo 18; comp ~10; firm 8 ($600M+ established TX); sector 7. Discounted to ≈ 80 on availability uncertainty.
+- **Gaps / risks:** Seat may not be open; generalist sector; 3-yr experience may bump against Principal bar (same theme as Perot Jain — Associate/Sr-Associate is the realistic level).
+- **Next action:** Verify on jobs.liveoakvp.com before effort. If only Associate is open, weigh as a strong-firm Associate. `/tailor-resume LiveOak` (VC-investor cut) once confirmed.
+
+### Silverton Partners — Principal (partner-track)  ·  Score: 78/100  ·  Status: NEW — verify live
+- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). silvertonpartners.com/open-positions; investment contact principal@silvertonpartners.com; John Gannon Principal posting (Jan-2022).
+- **Verified status:** **Open Principal seat doubtful** — Silverton hired Kristen Dumbeck (Principal) and promoted Addie Rasche to Principal in **Aug-2025**. They keep a standing open-positions page + investment-team inbox, so a pipeline exists.
+- **Location / model:** Austin, TX. Most-active / longest-standing TX firm, ~$655M AUM, generalist tech.
+- **Why it scored this way:** Role 25 (Principal/partner-track) *if open*; proximity 20; geo 18; comp ~10; firm 9 (top TX reputation); sector 7. Discounted to ≈ 78 on availability.
+- **Gaps / risks:** Likely no current Principal seat; same experience-band theme.
+- **Next action:** Check open-positions page; if nothing fits, send a concise, relationship-oriented note to principal@silvertonpartners.com (per voice-guide) to get on their radar. Don't force an application.
+
+### Trust Ventures — Investment Analyst / Associate  ·  Score: 72/100  ·  Status: NEW
+- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). LinkedIn (Investment Analyst/Associate, US); Medium "Open Role: Investment Associate"; John Gannon "VC Associate @ Trust Ventures in Remote."
+- **Verified status:** **Live and remote** (occasional travel to Austin). Full deal exposure: sourcing → diligence → portfolio management on the core team.
+- **Location / model:** Remote (Tulsa-compatible) — a real plus. Sector: hard tech in **highly-regulated industries** (energy, mobility, etc.) — sector-relevant.
+- **Why it scored this way:** Role ~16 (Analyst/Associate, below Sr-Associate floor); proximity 18 (core-team deal work); geo 20 (remote); comp ~9 (undisclosed); firm 7; sector ~9 (regulated hard tech). ≈ 72.
+- **Gaps / risks:** Asks **1–2 years** experience → junior; Adam (3 yrs post-MBA + more) would be a senior applicant and the title/comp may sit below his floor. Upside: remote + sector + full deal exposure at a thesis-driven fund.
 - **Warm-intro path:** None known.
-- **Tailoring notes:** Lead with business-judgment + operating depth + Texas ecosystem fit; de-emphasize sector specialization.
-- **Next action:** Confirm Principal seat → `/score-role` → `/tailor-resume LiveOak` (VC-investor cut).
+- **Tailoring notes:** Lead with diligence/sourcing reps (Atento), regulated-industry analytical rigor, and self-direction (they prize "significant self-direction" + "honesty/transparency" — mirror his actual working style from profile §7).
+- **Next action:** Decide with Adam whether a remote Associate seat is worth it given the level. If yes, `/tailor-resume Trust` (VC-investor cut) + apply via LinkedIn.
 
 ### SPLY Capital — VC Associate  ·  Score: 100/100 (Adam's call)  ·  Status: REVIEWING ⭐
 - **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm: https://splycapital.com/team · profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870.
