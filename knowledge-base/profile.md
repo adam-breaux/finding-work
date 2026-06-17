@@ -58,6 +58,13 @@
 - **Technical fluency:** understands technical terms, can use AI to code, but is not a software engineer/developer.
 - **AI/technology: extremely fluent in the latest tools.** This is a genuine differentiator — early/expert adopter. **Nicknamed "AdamGPT" by his MD in 2022** for always being on top of the latest tooling. Has led automation / GTM-tooling projects across ventures and is building an internal AI sales system at Agentech.
 
+### Deep-tech investment thesis (developed 2025–present) — a genuine differentiator
+- **Core conviction:** After years in B2B SaaS + AI applications, concluded that **AI application software is increasingly un-investable** — thin moats, easy for incumbents/fast-followers to replicate, too much AI noise to differentiate/sell, and many categories already have emerging winners.
+- **Where the returns are:** **Hard tech is the next frontier** — physical AI, robotics, space, and the broader industrial stack. Genuinely hard to build (more than a vibe-coded app), and capable of real-world impact. **U.S. reindustrialization** is a structural tailwind.
+- **A specific take:** The U.S. lacks China's ability to **spin up new physical products at scale, fast**; onshoring that rapid-scale manufacturing capability is an enormous opportunity.
+- **Backed by real work:** ~**100 founder/operator interviews** across energy, manufacturing, and industrials to build the thesis and map trends/opportunities. **Fluent in SBIR/STTR non-dilutive funding** processes; engaged with **OCAST** and **Oklahoma Catalyst** (administer those programs).
+- **Proof of work:** Not yet packaged — extensive notes in Notion, not a public memo. (High-value follow-up: turn this into a written market memo / thesis piece for VC applications.)
+
 ### Signature strengths
 - Drives projects forward at an unbelievable pace; if it needs to get done, he handles it with impeccable accuracy.
 - Excellent at getting to the **root cause** of an issue or need, **aligning resources**, and pushing forward.
@@ -81,6 +88,18 @@
    - **Fundraising (owned end-to-end):** Led Agentech's **$3M seed**. Built the materials (long-form investor memo, deck, financial projections, data room) and the investor-tracking CRM (staged pipeline with projected amounts, likelihood, stage criteria/actions, weekly cadence), seeded a fit-investor pipeline, and coordinated legal + accounting. Result: a fast, **fully-subscribed** round with a clean close. Ran the same process for multiple in-house ventures.
 2. **Fund Operations (built from scratch).** Defined what metrics mattered at venture and studio level, built tracking, stakeholder presentation, and LP reporting (telling each venture's story, good and bad). Became the **direct LP point of contact** for updates; led the **annual LP meeting end-to-end** (logistics through financials/projections). Ran the fundraising process for **two in-house ventures** and developed the Fund II narrative/pitch/CRM. Also stood up the entire back office (HR, payroll, accounting) from zero. Led **automation/GTM tooling projects** to remove bottlenecks across portfolio companies.
 3. **Investment Sourcing — Atento Fellowship.** As 1 of ~12 fellows, sourced **14 of 20 finalists** and **4 of 7** selected to fly to Tulsa to pitch. Later brought back *by request of Atento principals* to help with investment diligence.
+
+### Scale & specifics (from 2026-06-17 interview)
+- **19days:** $8M fund (ran its LP reporting); across the studio's ventures, helped raise **~$10M**. **Created 4 companies** — venture lead on 2, actively involved in the other 2.
+- **Atento:** fund was **$100M+**. **Diligenced 3 companies, screened hundreds** as a fellow.
+- **Investment judgment, validated:** on all **3 deals he diligenced at Atento he recommended against** — scalability, small market, unconvincing expansion demand — and **all three are now defunct.** (Strong "my pass calls were right" story.)
+- **Scope/people:** led or coordinated **~50 people** across ventures, team sizes **2–15**, spanning research/discovery, design, marketing, engineering, sales, and leadership. Worked with **MDs, GPs, and CEOs** through the full org chart.
+
+### AI systems built (concrete — maps to data-science / AI theses)
+- **Multi-agent investor-sourcing engine** (Agentech raise): continual-learning loop that searches for fit investors by **geography, thesis, and stage**, scores result quality, stores it, and re-searches — producing a pipeline of **hundreds of investors**, enriched via **Clay**, then outbound.
+- **Deal/process tooling:** staged investor CRM with per-stage criteria/actions; a **term-sheet evaluation** workflow to move term sheets fast alongside legal review.
+- **Sales lead-gen engine:** same learning-loop architecture targeting independent adjusters, TPAs, and carriers matched to ICP → ~**500 leads**, enriched + outbound + full CRM.
+- **Claude operations platform** for the sales team, integrating **HubSpot, Fathom (call transcripts), Google Drive/Gmail, calendar, and contract software**. Skills: a daily **morning brief** (prior-day meetings → to-dos → drafted emails/content for a 24-hr SLA); **meeting prep** (pulls all prior context, builds the next agenda around what's still unknown — economic buyer, price sensitivity, timeline); and **proposal/SOW drafting** (reads all prospect conversations + internal guidelines, drafts, and routes to the rep for review).
 
 ### Positioning the "gap"
 - **Young, but unusually strong experience for his age.** Chose 19days intentionally to learn at a rapid pace; now wants to **expand responsibilities / scope of ownership.** Frame youth as deliberate acceleration, not inexperience.
