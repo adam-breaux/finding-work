@@ -44,7 +44,13 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 -->
 
 ### Perot Jain — VC Associate (Principal = stretch)  ·  Score: 80/100  ·  Status: NEW
-- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). perotjain.com/job-openings; John Gannon postings for VC Principal (Dallas), VC Principal (SF), VC Associate (Dallas); LinkedIn Investment Principal. **Postings appear 2023-dated — confirm current.**
+- **Source / links (verify current — several appear 2023-dated):**
+  - Firm jobs page: https://perotjain.com/job-openings/
+  - VC Associate (Dallas) — John Gannon: https://johngannonblog.com/job/vc-associate-perot-jain-in-dallas-tx/
+  - Associate (Dallas) — LinkedIn: https://www.linkedin.com/jobs/view/associate-at-perot-jain-3919688347
+  - Investment Associate — Startup&VC: https://www.startupandvc.com/venture-capital-jobs/investment-associate-2031
+  - VC Principal (Dallas) — John Gannon: https://johngannonblog.com/job/vc-principal-perot-jain-in-dallas-tx/
+  - Investment Principal (SF) — LinkedIn: https://www.linkedin.com/jobs/view/investment-principal-at-perot-jain-3534871143
 - **Location / model:** Dallas, TX. Hub → Tulsa-compatible hybrid/travel-in.
 - **Comp signals:** Undisclosed. Raise in conversation.
 - **Why it scored this way:** Strong *firm* fit (industrial / mobility / real-estate / gov-defense tech = his hard-tech love; Dallas hub; Ross Perot Jr. + Anurag Jain). **But the Principal JD requires 7+ years of VC/PE investing experience — Adam has ~3.** So the realistic seat is the **Associate** (below his Sr-Associate floor, but he flexes for fit/firm). Scored as Associate: role ~16, proximity 18, geo 18, comp ~10, firm 8, sector 10 ≈ 80.
@@ -54,14 +60,21 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:** Verify live → seek warm intro → if Associate, decide with Adam whether to pursue below floor → `/tailor-resume PerotJain` (VC-investor, hard-tech cut).
 
 ### Ironspring Ventures — VC Principal  ·  Score: 88/100 (fit-if-open)  ·  Status: PASSED — seats filled, keep warm
-- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). John Gannon "VC Principal @ Ironspring Ventures in Austin, TX" (Jul-2024). Firm: ironspring.com.
+- **Source / links:**
+  - VC Principal (Austin) — John Gannon (Jul-2024, now filled): https://johngannonblog.com/job/vc-principal-ironspring-ventures-in-austin-tx/
+  - Firm site: https://ironspring.com · Portfolio job board: https://jobs.ironspring.com/jobs
+  - Filled-seats confirmation — VCWire (Mar-2025): https://vcwire.tech/2025/03/14/ironspring-ventures-adds-two-principals/
 - **Verified status:** **Likely filled.** VCWire (Mar-2025): Ironspring added *two* Principals — Natan Reddy and Sam Natbony. The Jul-2024 posting predates those hires, so the seat is almost certainly closed.
 - **Location / model:** Austin, TX. Fund II = $100M. Sector = construction / manufacturing / transport & logistics / alt-energy.
 - **Why it still matters:** This is Adam's **single best sector match** in Tier 1 (digital-industrial = his love). Even with no open seat, it's the top relationship to build for a future role.
 - **Next action:** **Don't apply to a closed req.** Build a relationship — warm intro to a partner or one of the new Principals; follow the fund; revisit when they raise Fund III or post a new seat. Possible writing-sample play: a short industrial-tech market memo aimed at their thesis.
 
 ### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 80/100  ·  Status: NEW — verify live
-- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). jobs.liveoakvp.com; John Gannon Associate/Principal/Partner postings; Associate apps → Associate@liveoak.vc.
+- **Source / links (verify current):**
+  - Firm job board: https://jobs.liveoakvp.com/jobs · Associate applications → Associate@liveoak.vc
+  - VC Associate (Austin) — John Gannon: https://johngannonblog.com/job/vc-associate-liveoak-ventures-in-austin-tx/
+  - Associate (Austin) — LinkedIn: https://www.linkedin.com/jobs/view/associate-at-liveoak-ventures-3908892921
+  - VC Partner (Austin) — John Gannon: https://johngannonblog.com/vc-careers/vc-partner-live-oak-venture-partners-in-austin-tx/
 - **Verified status:** Principal described as partner-track tied to fund expansion, **but no current 2026 posting confirmed — treat as possibly stale.**
 - **Location / model:** Austin, TX. Hub → Tulsa-compatible. Sector: generalist / B2B (strong, not his hard-tech love).
 - **Why it scored this way:** Role ~25 (Principal/partner-track) *if open*; proximity 20; geo 18; comp ~10; firm 8 ($600M+ established TX); sector 7. Discounted to ≈ 80 on availability uncertainty.
@@ -69,7 +82,11 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:** Verify on jobs.liveoakvp.com before effort. If only Associate is open, weigh as a strong-firm Associate. `/tailor-resume LiveOak` (VC-investor cut) once confirmed.
 
 ### Silverton Partners — Principal (partner-track)  ·  Score: 78/100  ·  Status: NEW — verify live
-- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). silvertonpartners.com/open-positions; investment contact principal@silvertonpartners.com; John Gannon Principal posting (Jan-2022).
+- **Source / links (verify current):**
+  - Firm open positions: https://www.silvertonpartners.com/open-positions · Portfolio board: https://jobs.silvertonpartners.com/jobs · Investment-team contact: principal@silvertonpartners.com
+  - VC Principal (Austin) — John Gannon (Jan-2022): https://johngannonblog.com/vc-careers/vc-principal-silverton-partners-in-austin-tx-2/
+  - VC Associate (Austin) — John Gannon: https://johngannonblog.com/vc-careers/vc-associate-silverton-partners-in-austin-tx/
+  - Recent Principal hires (Aug-2025): https://www.businesswire.com/news/home/20250825461524/en/Kristen-Dumbeck-Joins-Silverton-Partners-as-a-Principal-Addie-Rasche-Promoted-to-Principal
 - **Verified status:** **Open Principal seat doubtful** — Silverton hired Kristen Dumbeck (Principal) and promoted Addie Rasche to Principal in **Aug-2025**. They keep a standing open-positions page + investment-team inbox, so a pipeline exists.
 - **Location / model:** Austin, TX. Most-active / longest-standing TX firm, ~$655M AUM, generalist tech.
 - **Why it scored this way:** Role 25 (Principal/partner-track) *if open*; proximity 20; geo 18; comp ~10; firm 9 (top TX reputation); sector 7. Discounted to ≈ 78 on availability.
@@ -77,7 +94,11 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:** Check open-positions page; if nothing fits, send a concise, relationship-oriented note to principal@silvertonpartners.com (per voice-guide) to get on their radar. Don't force an application.
 
 ### Trust Ventures — Investment Analyst / Associate  ·  Score: 72/100  ·  Status: NEW
-- **Source / link:** Tier-1 crawl + deep dive (2026-06-17). LinkedIn (Investment Analyst/Associate, US); Medium "Open Role: Investment Associate"; John Gannon "VC Associate @ Trust Ventures in Remote."
+- **Source / links (verified live + remote):**
+  - Investment Analyst/Associate (US, remote) — LinkedIn: https://www.linkedin.com/jobs/view/investment-analyst-associate-at-trust-ventures-3758952878
+  - "Open Role: Investment Associate" — Trust Ventures (Medium): https://medium.com/@trustventures/open-role-investment-associate-ec257c6da4fe
+  - VC Associate (Remote) — John Gannon: https://johngannonblog.com/job/vc-associate-trust-ventures-in-remote/
+  - JD detail — Growth Equity Interview Guide: https://growthequityinterviewguide.com/job/trust-ventures-investment-analyst-associate-remote
 - **Verified status:** **Live and remote** (occasional travel to Austin). Full deal exposure: sourcing → diligence → portfolio management on the core team.
 - **Location / model:** Remote (Tulsa-compatible) — a real plus. Sector: hard tech in **highly-regulated industries** (energy, mobility, etc.) — sector-relevant.
 - **Why it scored this way:** Role ~16 (Analyst/Associate, below Sr-Associate floor); proximity 18 (core-team deal work); geo 20 (remote); comp ~9 (undisclosed); firm 7; sector ~9 (regulated hard tech). ≈ 72.
@@ -85,6 +106,27 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Warm-intro path:** None known.
 - **Tailoring notes:** Lead with diligence/sourcing reps (Atento), regulated-industry analytical rigor, and self-direction (they prize "significant self-direction" + "honesty/transparency" — mirror his actual working style from profile §7).
 - **Next action:** Decide with Adam whether a remote Associate seat is worth it given the level. If yes, `/tailor-resume Trust` (VC-investor cut) + apply via LinkedIn.
+
+### HOLT Ventures — VC Associate / Principal  ·  Score: 72/100  ·  Status: NEW — confirm level
+- **Source / links (confirm current level):**
+  - VC Analyst (San Antonio) — John Gannon: https://johngannonblog.com/vc-analyst-holt-ventures-in-san-antonio-tx/
+  - Firm: https://www.holtventures.com · LinkedIn: https://www.linkedin.com/company/holtventures
+- **Location / model:** San Antonio, TX. CVC arm of Holt Cat (~$25M fund). Sector: construction tech / heavy equipment / industrial = his hard-tech love.
+- **Verified status:** Has posted VC Analyst / Associate / Principal + a Finance Analyst at various points; **current open level unconfirmed** — the most recent indexed posting reads "Analyst" (below floor).
+- **Why it scored this way:** Role ~16–20 (level TBD); proximity 18 (CVC, partner Meg Paulus); geo ~13 (San Antonio — reachable by flight but not a primary hub, travel cadence TBD); comp ~10; firm 7; sector 10. ≈ 72.
+- **Gaps / risks:** Level may be Analyst (below floor); San Antonio is a weaker geo than Dallas/Austin from Tulsa. Strong on sector.
+- **Next action:** Confirm the current open level + travel expectations before effort. Good warm-intro candidate given the industrial thesis.
+
+### Capital Factory — Venture Associate  ·  (see pipeline row, Score 54)
+- **Source / links:**
+  - Venture Associate (Austin): https://jobs.capitalfactory.com/companies/capital-factory/jobs/49734950-venture-associate-austin
+  - Firm jobs (all TX offices): https://capitalfactory.com/jobs/ · Board: https://jobs.capitalfactory.com/companies/capital-factory
+  - (Also an Investor Relations Associate posting across Austin/Dallas/Houston/San Antonio.)
+
+### 8VC — platform / Chief-of-Staff-type roles (scan board)  ·  Status: NEW — scan
+- **Source / links:**
+  - Firm roles (Ashby ATS): https://jobs.ashbyhq.com/8vc · Talent page: https://www.8vc.com/jobs
+  - Note: jobs.8vc.com is the **portfolio** board (e.g. "Chief of Staff – MeritFirst" is a portfolio company, not the fund). Scan the Ashby board for actual 8VC firm/platform roles in Dallas/Austin.
 
 ### SPLY Capital — VC Associate  ·  Score: 100/100 (Adam's call)  ·  Status: REVIEWING ⭐
 - **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm: https://splycapital.com/team · profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870.
