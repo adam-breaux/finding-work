@@ -6,6 +6,15 @@
 
 ---
 
+## 🔴 Toyota Ventures — VC Associate (Frontier Fund) · Score 85 · ⭐ NEW TOP TARGET (VC sweep 2026-06-17)
+$800M+ deep-tech/climate fund (Joby, Stoke Space, Pickle Robot). Sources AI / advanced materials / robotics / **space tech** = his exact thesis. **Remote-eligible (US) per the JD** → Tulsa-compatible. Title-flex for a top firm. LinkedIn 4425168501 (live, 38 applicants).
+- [ ] **Confirm remote eligibility extends to Tulsa** (JD says "remote within other U.S. cities is possible" — verify before effort)
+- [ ] `/score-role` to lock it, then `/tailor-resume Toyota` (VC-investor, deep-tech cut)
+- [ ] Lead with the deep-tech thesis + 100 founder interviews + SBIR/STTR fluency + Atento sourcing/diligence + AI sourcing engines
+- [ ] **Pair with the deep-tech market memo** (proof-of-work) — this is the role it's built for
+- [ ] Address the "min 4 yrs" reach (he's ~3) by framing total venture/operating depth
+- [ ] Look for a warm intro into Toyota Ventures / SF deep-tech network (Joey? Atento?)
+
 ## 🔴 Booz Allen Ventures — APPLIED 2026-06-17 (Score 82); now follow through
 VC Associate, $300M defense/deep-tech CVC, Denver. Submitted via Workday with tailored resume + work-experience + skills. LinkedIn 4428309259 (posting closes within 90 days). US citizen ✓.
 
