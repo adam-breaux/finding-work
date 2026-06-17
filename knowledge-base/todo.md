@@ -6,15 +6,16 @@
 
 ---
 
-## 🔴 Active priority — Booz Allen Ventures application (Score 82)
-VC Associate, $300M defense/deep-tech CVC, Denver. Sector bullseye; profile maps ~1:1. LinkedIn 4428309259, posted 2026-06-13 (closes within 90 days). **US-citizenship requirement is satisfied — Adam is a US citizen ✓.**
+## 🔴 Booz Allen Ventures — APPLIED 2026-06-17 (Score 82); now follow through
+VC Associate, $300M defense/deep-tech CVC, Denver. Submitted via Workday with tailored resume + work-experience + skills. LinkedIn 4428309259 (posting closes within 90 days). US citizen ✓.
 
-- [ ] Tailor resume → `/tailor-resume BoozAllen` (VC-investor, defense/deep-tech cut)
-- [ ] Draft application / outreach in Adam's voice → `/draft-outreach`
-- [ ] Confirm Denver work model (hybrid vs onsite) supports a Tulsa-anchored hybrid
-- [ ] Pin where comp lands in the $86.8K–$198K band (raise carry/LTIP in conversation)
-- [ ] Look for a warm-intro path into Booz Allen Ventures / DC-defense-VC network (Joey? Atento?)
-- [ ] Adam: final review → submit
+- [x] 2026-06-17 — Tailor resume (`resumes/variants/boozallen.json` → `output/AdamBreaux_BoozAllen.docx`)
+- [x] 2026-06-17 — Tailored Workday work-experience descriptions + skills list
+- [x] 2026-06-17 — **Submitted application via Workday**
+- [ ] Seek a warm-intro path into Booz Allen Ventures / DC-defense-VC network (Joey? Atento?) to reinforce the application
+- [ ] **Build the deep-tech market memo** from Adam's Notion notes → proof-of-work to send as a follow-up (high value; needs a working session)
+- [ ] Watch for a recruiter response; if interview → prep using `answer-bank.md` (thesis, pass story, AI systems)
+- [ ] If it advances: confirm Denver work model (hybrid vs onsite) + where comp lands in $86.8K–$198K + carry/LTIP
 
 ## 🟡 Research the 3 new Denver leads (then `/score-role` or pass)
 
@@ -49,7 +50,12 @@ VC Associate, $300M defense/deep-tech CVC, Denver. Sector bullseye; profile maps
 - [ ] TX-fund relationship plays (Ironspring, Silverton, LiveOak, Perot Jain): postings are closed/stale → build warm intros via `network.md` rather than applying.
 - [ ] (Optional) Ask whether to add `*.getro.com` / specific `jobs.<firm>.com` hosts to the allowlist so Getro portfolio boards + firm career pages become machine-verifiable.
 
+## 🟣 Proof-of-work / assets to build (reusable across applications)
+- [ ] **Deep-tech market memo / thesis piece** from Adam's ~100 interviews + Notion notes — a written artifact for VC applications (esp. Booz Allen follow-up). Currently no packaged proof of work.
+- [x] 2026-06-17 — **Answer bank developed** (`answer-bank.md`): why VC, why hard tech, live thesis, pass story, your story, your edge, accomplishment, weakness, why-this-firm skeleton. Reuse + refine per application.
+
 ## ✅ Recently done
 - [x] 2026-06-17 — Live-status verification pass (ATS + LinkedIn): Perot Jain / LiveOak / Trust Ventures postings confirmed CLOSED; 8VC board scanned (no fit).
 - [x] 2026-06-17 — Tier 2 (Denver/CO) crawl: 13 firms, 0 verifiable live fund seats; surfaced the Denver leads above.
 - [x] 2026-06-17 — Deep-dived + scored GridStor (70) and Booz Allen Ventures (82).
+- [x] 2026-06-17 — Booz Allen application submitted (resume + Workday fields + skills); captured interview material into `profile.md` + `answer-bank.md`.
