@@ -26,3 +26,4 @@
 |---|---|---|---|---|
 | 2026-06-16 | Tyler Williams / SPLY Capital | Email | VC Associate role — tool scored it #1 fit | **SENT by Adam** (already connected; awaiting reply) |
 | 2026-06-16 | Tyler Williams / SPLY Capital | Email (follow-up) | "Forgot to mention" color — $3M Agentech seed (owned, fully subscribed), part-time CFO at $25M val, AdamGPT / internal AI system, aerospace/defense interest | SENT by Adam |
+| 2026-06-17 | Toyota Ventures (Frontier Fund) | Application note + LinkedIn DM (drafted, `outreach/toyota-ventures.md`) | VC Associate — deep-tech thesis + sourcing/diligence reps + production AI | DRAFTED — pending (check warm intro via Joey/Atento; confirm remote) |
