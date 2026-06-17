@@ -96,11 +96,10 @@
 | Greater Colorado Venture Fund | Telluride, CO | VC | rural / seed | https://www.greatercolorado.vc (homepage) | ⬜ none found (no results) | 2026-06-17 |
 | Innosphere Ventures | Fort Collins, CO | VC | ⭐ hard science / health / cleantech | https://innosphereventures.org (homepage) | ⬜ none found (no results) | 2026-06-17 |
 
-> **Incidental Denver-hub leads (NOT Tier 2 firms — surfaced repeatedly during the crawl; on-thesis, human-verify):**
-> - **GridStor** — *Investment Associate*, Denver, posted 2026-06-16 — ⭐ energy storage / industrial. On-thesis.
-> - **Booz Allen Ventures** — *Associate*, Denver, posted 2026-06-13 — ⭐ defense / dual-use CVC. Strong firm; level may sit below floor.
-> - **Saturn Five** — *Operating Partner*, Denver, 2026-06-16 · **CB Partners** — *Senior Investment Analyst*, Denver, 2026-06-09 · **Kava Equity Partners** — *Senior Associate* (PE), Denver, 2026-06-16.
-> → Consider adding GridStor + Booz Allen Ventures to the target list and `/score-role`-ing them after a human confirms they're live.
+> **Incidental Denver-hub leads (NOT Tier 2 firms — surfaced repeatedly during the crawl; on-thesis):**
+> - **Booz Allen Ventures** — *Associate*, Denver, posted 2026-06-13 — ⭐ defense / space / deep-tech CVC ($300M fund). **✅ verified live + scored 82 → logged to `opportunities.md` (NEW). Top new find.**
+> - **GridStor** — *Investment Associate*, Denver, posted 2026-06-16 — ⭐ energy storage / industrial (Goldman-AM-backed). **✅ verified live + scored 70 → logged to `opportunities.md` (NEW); project-finance skills-gap caveat.**
+> - Not yet scored (human-verify first): **Saturn Five** — Operating Partner, Denver, 2026-06-16 · **CB Partners** — Senior Investment Analyst, Denver, 2026-06-09 · **Kava Equity Partners** — Senior Associate (PE), Denver, 2026-06-16.
 
 ## Tier 3 — Remote-friendly + national hard-tech / industrial / defense
 
