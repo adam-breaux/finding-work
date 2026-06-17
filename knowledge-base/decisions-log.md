@@ -58,6 +58,12 @@
 - **Why:** The decisive facts in these roles (work model, the owner-operator experience bar) live in the body of the JD, not the title/location header. Reading the full posting before scoring avoids carrying dead leads.
 - **Criteria implication:** (1) **Pull the full JD before assigning a real score** — geo + experience bar are often buried, not in the header. (2) **"Operator/portfolio" PE seats that demand a former owner-operator (P&L responsibility) are out of his lane** — same shape as Saturn Five; discount on sight. (3) **On-site (non-hybrid) Denver trips the relocation gate** just like onsite SF/VA did — Denver only counts as a hub when the seat is hybrid/remote-tolerant. (4) **M&A-deal-modeling requirements are a recurring partial gap** (GridStor, now Kava) — flag honestly, don't overstate.
 
+### 2026-06-17 — Toyota Ventures, VC Associate (Frontier Fund) — APPLIED
+- **Verdict:** FIT — applied.
+- **What Adam said:** "Great, I applied for Toyota Ventures."
+- **Why:** Top-tier $800M deep-tech fund, remote-eligible (Tulsa-compatible), sector bullseye (AI / advanced materials / robotics / space) for his hard-tech thesis + 100 founder interviews + SBIR/STTR fluency. He applied despite the "Associate" title sitting below his Sr-Associate floor and the "min 4 yrs" bar being a slight reach (~3 yrs) — confirming the title-flex-for-top-firms rule in practice and that he'll stretch a year of experience for a genuine sector + firm + geo match.
+- **Criteria implication:** Reinforces the title-flex pattern: a top-tier firm + remote + exact-sector match clears the bar even at a below-floor title and a slightly-short experience requirement. Keep surfacing remote/hub deep-tech investor seats at strong firms even when the posted title/years are a touch below his stated floor.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)
