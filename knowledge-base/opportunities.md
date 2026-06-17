@@ -11,27 +11,34 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 
 ## Active pipeline
 
-> ⚠️ **LIVE-STATUS WARNING (2026-06-17).** The Tier-1 *crawl* roles below were sourced from
-> indexed archives (John Gannon's board, cached LinkedIn) and **their live status is UNVERIFIED** —
-> several are demonstrably stale (LinkedIn job IDs date to ~2023–2024; Ironspring/Silverton seats
-> filled in 2025). In this environment I **cannot** confirm "currently accepting applications":
-> Bash egress is allowlisted (ATS APIs blocked) and WebFetch is Cloudflare-blocked on fund sites.
-> **Do not treat any `LEAD · unverified` row as a live opening — a human must click through to confirm.**
-> Only **SPLY** (Adam's own active conversation) is confirmed live. See bottom of file for the fix.
+> ✅ **LIVE-STATUS VERIFICATION PASS (2026-06-17).** ATS + LinkedIn hosts were added to the egress
+> allowlist (`boards-api.greenhouse.io`, `api.lever.co`, `api.ashbyhq.com`, `jobs.ashbyhq.com`,
+> `www.linkedin.com`), so live status was machine-checked for the first time. Results:
+> - **❌ Confirmed CLOSED** (LinkedIn returns "No longer accepting applications", posted 1–2 yrs ago):
+>   Perot Jain Associate (`3919688347`) & Principal-SF (`3534871143`), LiveOak Associate (`3908892921`),
+>   and **Trust Ventures** Investment Analyst/Associate (`3758952878`) — the last one disproves the
+>   earlier "verified live" note.
+> - **No directly-attributable live posting** turned up on LinkedIn's public guest search for any of:
+>   Perot Jain, LiveOak, Silverton, Trust, HOLT, SPLY, Capital Factory, TYH, Paperboy, Amboy, Ironspring.
+> - **8VC** (Ashby `8vc`): 9 live reqs confirmed, but all portfolio-company or internal-ops — **no fund/CoS fit.**
+> - **Still un-machine-verifiable** (no Greenhouse/Lever/Ashby board; app host not allowlisted — needs a
+>   human click): Silverton, HOLT, SPLY (splycapital.com), TYH, Paperboy (paperboyventures.com),
+>   Amboy (lovable.app), Capital Factory (Getro board). **SPLY** stays confirmed-live via Adam's own conversation.
+> **Bottom line: none of the archive-sourced postings are live. Treat the TX funds as relationship targets, not open reqs.**
 
 | Date found | Firm | Role | Loc / Model | Score | Status | Notes |
 |---|---|---|---|---|---|---|
-| 2026-06-17 | Perot Jain | VC Associate (Principal = stretch) | Dallas, TX · hybrid-able | 80 (fit) | ⚠️ LEAD · unverified | Strong FIRM fit (industrial/hard tech, Dallas). Principal JD wants 7+ yrs (Adam ~3) → Associate is the realistic seat. **Linked postings are ~2023-vintage — likely closed; confirm before any effort.** |
+| 2026-06-17 | Perot Jain | VC Associate (Principal = stretch) | Dallas, TX · hybrid-able | 80 (fit) | ❌ postings CLOSED (verified) | Strong FIRM fit (industrial/hard tech, Dallas). **Both LinkedIn postings verified CLOSED 2026-06-17 ("no longer accepting", 1–2 yrs old); no live req found.** → Relationship/warm-intro target, not an application. |
 | 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | 88 (fit) | ❌ CLOSED | **Filled:** 2 Principals hired Mar-2025 (Reddy, Natbony). Best sector match — relationship/warm-intro target only, not an application. |
-| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | 80 (fit) | ⚠️ LEAD · unverified | Established TX generalist/B2B. **No current posting confirmed — likely stale.** Firm-level lead only. |
+| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | 80 (fit) | ❌ posting CLOSED (verified) | Established TX generalist/B2B. **LinkedIn Associate posting verified CLOSED 2026-06-17; no live req found.** Firm-level relationship lead only. |
 | 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | 78 (fit) | ❌ likely CLOSED | Filled/promoted Principals Aug-2025 → open Principal seat doubtful. Relationship target (principal@silvertonpartners.com). |
-| 2026-06-17 | Trust Ventures | Investment Analyst / Associate | Remote (occasional Austin travel) | 72 (fit) | ⚠️ LEAD · unverified | Remote + regulated hard-tech = attractive shape. **LinkedIn ID dates to ~2023 — likely closed.** Junior (1–2 yrs). Confirm live before effort. |
+| 2026-06-17 | Trust Ventures | Investment Analyst / Associate | Remote (occasional Austin travel) | 72 (fit) | ❌ posting CLOSED (verified) | Remote + regulated hard-tech = attractive shape, **but LinkedIn posting verified CLOSED 2026-06-17 (~2 yrs old) — the earlier "verified live" note was wrong.** No live req found. Watch for a re-post. |
 | 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | 72 (fit) | ⚠️ LEAD · unverified | Industrial CVC (Holt Cat) — sector bullseye. Level + live status unconfirmed. Firm-level lead. |
 | 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | ⭐ **100** | REVIEWING | **Adam's call — the bullseye; already in active conversation.** Contact: Tyler Williams (Co-Founder & Managing Partner, Dallas). |
 | 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 63 | NEW | Adam: "interesting." Direct to MP; IR + infra build; $70–190K + bonus. |
 | 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US, likely) | 60 | NEW | 2nd hire; LP/investor-network + diligence research + systems/AI tooling — strong operating match. Consumer/CPG sector (off-target but he's open). |
 | 2026-06-16 | Amboy Street Ventures | Principal, Life Sciences | Remote | 55 | PASSED | Adam: "doesn't fit my interests or experience." Requires healthcare-VC pedigree he lacks. |
-| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 54 | NEW | Re-opened: carry no longer a gate + Adam will flex title for a strong firm. Caveat: heavy outbound sourcing / "super-connector" flavor. **Re-confirmed live 2026-06-17 (Tier-1 crawl); also an Investor Relations Associate posting across TX offices.** |
+| 2026-06-16 | Capital Factory | Venture Associate | Austin, TX · onsite | 54 | NEW | Re-opened: carry no longer a gate + Adam will flex title for a strong firm. Caveat: heavy outbound sourcing / "super-connector" flavor. Board is Getro-hosted (jobs.capitalfactory.com) — not on the egress allowlist, so **not machine-verified 2026-06-17; human click required.** Previously seen alongside an Investor Relations Associate posting across TX offices. |
 | 2026-06-16 | Lockheed Martin Ventures | VC Senior Associate | Arlington, VA · onsite | 20 `DISQUALIFIED` | PASSED | Defense/aerospace = his love, but onsite VA → relocation gate. |
 | 2026-06-16 | Partners Capital | Senior Associate, VC | San Francisco · onsite | 20 `DISQUALIFIED` | PASSED | Onsite SF → relocation gate. |
 
@@ -51,8 +58,11 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Next action:**
 -->
 
-### Perot Jain — VC Associate (Principal = stretch)  ·  Score: 80/100  ·  Status: NEW
-- **Source / links (verify current — several appear 2023-dated):**
+### Perot Jain — VC Associate (Principal = stretch)  ·  Score: 80/100  ·  Status: ❌ postings CLOSED (verified 2026-06-17) — relationship target
+- **Live-status check (2026-06-17):** Both LinkedIn postings (`3919688347` Associate, `3534871143` Principal-SF)
+  return **"No longer accepting applications"** (posted ~1 yr and ~2 yrs ago). No live Perot Jain req found on
+  LinkedIn guest search. Firm jobs page + John Gannon / Startup&VC archive links can't be machine-checked here.
+- **Source / links (LinkedIn = CLOSED; others archive-dated):**
   - Firm jobs page: https://perotjain.com/job-openings/
   - VC Associate (Dallas) — John Gannon: https://johngannonblog.com/job/vc-associate-perot-jain-in-dallas-tx/
   - Associate (Dallas) — LinkedIn: https://www.linkedin.com/jobs/view/associate-at-perot-jain-3919688347
@@ -77,8 +87,11 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Why it still matters:** This is Adam's **single best sector match** in Tier 1 (digital-industrial = his love). Even with no open seat, it's the top relationship to build for a future role.
 - **Next action:** **Don't apply to a closed req.** Build a relationship — warm intro to a partner or one of the new Principals; follow the fund; revisit when they raise Fund III or post a new seat. Possible writing-sample play: a short industrial-tech market memo aimed at their thesis.
 
-### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 80/100  ·  Status: NEW — verify live
-- **Source / links (verify current):**
+### LiveOak Venture Partners — Principal (partner-track)  ·  Score: 80/100  ·  Status: ❌ posting CLOSED (verified 2026-06-17) — relationship target
+- **Live-status check (2026-06-17):** LinkedIn Associate posting (`3908892921`) returns **"No longer accepting
+  applications"** (~2 yrs old). No live LiveOak req found on LinkedIn guest search. jobs.liveoakvp.com is a
+  Getro portfolio board (not on the allowlist) — human click required for any firm-direct posting.
+- **Source / links (LinkedIn = CLOSED; others archive-dated):**
   - Firm job board: https://jobs.liveoakvp.com/jobs · Associate applications → Associate@liveoak.vc
   - VC Associate (Austin) — John Gannon: https://johngannonblog.com/job/vc-associate-liveoak-ventures-in-austin-tx/
   - Associate (Austin) — LinkedIn: https://www.linkedin.com/jobs/view/associate-at-liveoak-ventures-3908892921
@@ -101,13 +114,17 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Gaps / risks:** Likely no current Principal seat; same experience-band theme.
 - **Next action:** Check open-positions page; if nothing fits, send a concise, relationship-oriented note to principal@silvertonpartners.com (per voice-guide) to get on their radar. Don't force an application.
 
-### Trust Ventures — Investment Analyst / Associate  ·  Score: 72/100  ·  Status: NEW
-- **Source / links (verified live + remote):**
+### Trust Ventures — Investment Analyst / Associate  ·  Score: 72/100  ·  Status: ❌ posting CLOSED (verified 2026-06-17)
+- **Live-status check (2026-06-17):** LinkedIn posting (`3758952878`) returns **"No longer accepting
+  applications"** (~2 yrs old). **This overturns the prior "verified live" note below — it was based on an
+  indexed archive, not a live check.** No current Trust Ventures req found on LinkedIn guest search. Good
+  shape (remote + regulated hard-tech) → worth watching for a re-post, but nothing to apply to today.
+- **Source / links (LinkedIn = CLOSED as of 2026-06-17):**
   - Investment Analyst/Associate (US, remote) — LinkedIn: https://www.linkedin.com/jobs/view/investment-analyst-associate-at-trust-ventures-3758952878
   - "Open Role: Investment Associate" — Trust Ventures (Medium): https://medium.com/@trustventures/open-role-investment-associate-ec257c6da4fe
   - VC Associate (Remote) — John Gannon: https://johngannonblog.com/job/vc-associate-trust-ventures-in-remote/
   - JD detail — Growth Equity Interview Guide: https://growthequityinterviewguide.com/job/trust-ventures-investment-analyst-associate-remote
-- **Verified status:** **Live and remote** (occasional travel to Austin). Full deal exposure: sourcing → diligence → portfolio management on the core team.
+- **~~Verified status: Live and remote~~ (CORRECTED 2026-06-17 — the posting is CLOSED; see live-status check above).** Role *was* described as remote (occasional Austin travel) with full deal exposure: sourcing → diligence → portfolio management on the core team.
 - **Location / model:** Remote (Tulsa-compatible) — a real plus. Sector: hard tech in **highly-regulated industries** (energy, mobility, etc.) — sector-relevant.
 - **Why it scored this way:** Role ~16 (Analyst/Associate, below Sr-Associate floor); proximity 18 (core-team deal work); geo 20 (remote); comp ~9 (undisclosed); firm 7; sector ~9 (regulated hard tech). ≈ 72.
 - **Gaps / risks:** Asks **1–2 years** experience → junior; Adam (3 yrs post-MBA + more) would be a senior applicant and the title/comp may sit below his floor. Upside: remote + sector + full deal exposure at a thesis-driven fund.
@@ -131,10 +148,14 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
   - Firm jobs (all TX offices): https://capitalfactory.com/jobs/ · Board: https://jobs.capitalfactory.com/companies/capital-factory
   - (Also an Investor Relations Associate posting across Austin/Dallas/Houston/San Antonio.)
 
-### 8VC — platform / Chief-of-Staff-type roles (scan board)  ·  Status: NEW — scan
+### 8VC — platform / Chief-of-Staff-type roles (scan board)  ·  Status: ✅ scanned 2026-06-17 — no fit
 - **Source / links:**
   - Firm roles (Ashby ATS): https://jobs.ashbyhq.com/8vc · Talent page: https://www.8vc.com/jobs
   - Note: jobs.8vc.com is the **portfolio** board (e.g. "Chief of Staff – MeritFirst" is a portfolio company, not the fund). Scan the Ashby board for actual 8VC firm/platform roles in Dallas/Austin.
+- **Live scan (Ashby API `8vc`, 2026-06-17):** 9 live reqs, none a fit — all are portfolio-company roles
+  (MeritFirst, Thorin) or 8VC internal ops/eng: *Head of Communications & Brand Marketing (Remote-US),
+  IT Administrator (Dallas), Software Engineer New Grad (SF)*. No investing/platform/CoS seat for Adam.
+  Re-scan the Ashby board periodically — it's now machine-checkable.
 
 ### SPLY Capital — VC Associate  ·  Score: 100/100 (Adam's call)  ·  Status: REVIEWING ⭐
 - **Source / link:** Surfaced on VC Stack / Startup&VC job boards, posted ~2026-06-08. Firm: https://splycapital.com/team · profile: https://www.preqin.com/data/profile/fund-manager/sply-capital/776870.
@@ -191,15 +212,24 @@ and must be human-clicked before any work. No more surfacing dated archive links
 - The fund's own live application page (when not bot-blocked).
 - A freshly-dated aggregator result (LinkedIn job IDs encode recency — current 2026 reqs are high-numbered).
 
-**Why it failed on 2026-06-17:** this environment couldn't reach any of those:
-- **Bash egress is allowlisted** → `curl` to ATS APIs returns `Host not in allowlist`.
-- **WebFetch is Cloudflare-blocked (403)** on fund sites, ATS APIs, John Gannon, and LinkedIn job pages.
-- **WebSearch** only returns *indexed archives*, which are stale.
+**What now works (allowlist updated 2026-06-17):** the hosts below were added to egress, so live checks run via Bash `curl`:
+- `boards-api.greenhouse.io`, `api.lever.co`, `api.ashbyhq.com`, `jobs.ashbyhq.com`, `www.linkedin.com`.
 
-**The fix (one of):**
-1. **Add hosts to the network egress allowlist** (env settings): `boards-api.greenhouse.io`, `api.lever.co`,
-   `api.ashbyhq.com`, `jobs.ashbyhq.com`, `www.linkedin.com`. Then live ATS verification works via Bash.
-   See https://code.claude.com/docs/en/claude-code-on-the-web (network policy).
-2. **Or pivot the sourcing model:** treat funds as *relationship* targets (warm-intro map in `network.md`)
-   rather than scraping boards, since investor seats are mostly network-filled and rarely posted publicly.
-   Human-verify any specific posting before it's logged `NEW`.
+**Verification recipes that worked:**
+- **Ashby board JSON:** `curl https://api.ashbyhq.com/posting-api/job-board/<token>` → `jobs[]` with `title`,
+  `location`, `isListed`. (8VC token = `8vc`.)
+- **Greenhouse / Lever:** `https://boards-api.greenhouse.io/v1/boards/<token>/jobs` and
+  `https://api.lever.co/v0/postings/<token>?mode=json`. (No TX-fund tokens resolved — most don't use these.)
+- **LinkedIn single posting (no login):** `https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/<jobId>`
+  — search the HTML for "no longer accepting applications" and the "N ago" timestamp. This is how the four
+  closed postings were confirmed.
+- **LinkedIn firm search (no login):**
+  `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=<firm>&location=United%20States`
+  — note it returns *fuzzy* matches at other firms, so absence is a signal but not proof.
+
+**Still blocked (not on the allowlist) → human click required:** firm career sites, Getro portfolio boards
+(jobs.<firm>.com, jobs.capitalfactory.com), and Lovable app pages (amboystjobs.lovable.app).
+
+**Standing rule:** treat TX funds primarily as *relationship* targets (warm-intro map in `network.md`) —
+investor seats are mostly network-filled and rarely posted. Re-run the ATS/LinkedIn checks above before
+logging anything `NEW`, and human-verify any posting that lives on a non-allowlisted host.
