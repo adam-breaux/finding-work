@@ -11,14 +11,22 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 
 ## Active pipeline
 
+> ⚠️ **LIVE-STATUS WARNING (2026-06-17).** The Tier-1 *crawl* roles below were sourced from
+> indexed archives (John Gannon's board, cached LinkedIn) and **their live status is UNVERIFIED** —
+> several are demonstrably stale (LinkedIn job IDs date to ~2023–2024; Ironspring/Silverton seats
+> filled in 2025). In this environment I **cannot** confirm "currently accepting applications":
+> Bash egress is allowlisted (ATS APIs blocked) and WebFetch is Cloudflare-blocked on fund sites.
+> **Do not treat any `LEAD · unverified` row as a live opening — a human must click through to confirm.**
+> Only **SPLY** (Adam's own active conversation) is confirmed live. See bottom of file for the fix.
+
 | Date found | Firm | Role | Loc / Model | Score | Status | Notes |
 |---|---|---|---|---|---|---|
-| 2026-06-17 | Perot Jain | VC Associate (Principal = stretch) | Dallas, TX · hybrid-able | **80** | NEW | Verified: strong FIRM fit (industrial/hard tech, Dallas). **Principal needs 7+ yrs investing — Adam has ~3 → target the Associate / argue Sr-Associate.** Postings look 2023-dated; confirm live: perotjain.com/job-openings. |
-| 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | 88 | PASSED (seats filled) | **Verified filled:** added 2 Principals Mar-2025 (Reddy, Natbony); posting was Jul-2024. Best sector match in Tier 1 — **keep warm via intro for a future seat**, not an active app. ironspring.com. |
-| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | **80** | NEW | Established TX generalist/B2B; partner-track tied to fund expansion. **No 2026-current posting confirmed — likely stale; verify on jobs.liveoakvp.com before effort.** |
-| 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | **78** | NEW | Top TX firm ($655M). **Recently filled/promoted Principals Aug-2025 → open seat doubtful; verify** at silvertonpartners.com/open-positions (investment contact: principal@silvertonpartners.com). |
-| 2026-06-17 | Trust Ventures | Investment Analyst / Associate | Remote (occasional Austin travel) | **72** | NEW | **Verified live + remote.** Hard tech in regulated industries (sector plus). Asks 1–2 yrs → junior/below floor; he'd be a senior applicant. Realistic foot-in-door at a remote, sector-relevant fund. |
-| 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | **72** | NEW | Industrial/construction/heavy-equipment CVC (Holt Cat) — sector bullseye. Confirm current level (Analyst vs Assoc/Principal) + travel cadence from Tulsa. |
+| 2026-06-17 | Perot Jain | VC Associate (Principal = stretch) | Dallas, TX · hybrid-able | 80 (fit) | ⚠️ LEAD · unverified | Strong FIRM fit (industrial/hard tech, Dallas). Principal JD wants 7+ yrs (Adam ~3) → Associate is the realistic seat. **Linked postings are ~2023-vintage — likely closed; confirm before any effort.** |
+| 2026-06-17 | Ironspring Ventures | VC Principal | Austin, TX · hybrid | 88 (fit) | ❌ CLOSED | **Filled:** 2 Principals hired Mar-2025 (Reddy, Natbony). Best sector match — relationship/warm-intro target only, not an application. |
+| 2026-06-17 | LiveOak Venture Partners | Principal (partner-track) | Austin, TX | 80 (fit) | ⚠️ LEAD · unverified | Established TX generalist/B2B. **No current posting confirmed — likely stale.** Firm-level lead only. |
+| 2026-06-17 | Silverton Partners | Principal (partner-track) | Austin, TX | 78 (fit) | ❌ likely CLOSED | Filled/promoted Principals Aug-2025 → open Principal seat doubtful. Relationship target (principal@silvertonpartners.com). |
+| 2026-06-17 | Trust Ventures | Investment Analyst / Associate | Remote (occasional Austin travel) | 72 (fit) | ⚠️ LEAD · unverified | Remote + regulated hard-tech = attractive shape. **LinkedIn ID dates to ~2023 — likely closed.** Junior (1–2 yrs). Confirm live before effort. |
+| 2026-06-17 | HOLT Ventures | VC Associate / Principal | San Antonio, TX | 72 (fit) | ⚠️ LEAD · unverified | Industrial CVC (Holt Cat) — sector bullseye. Level + live status unconfirmed. Firm-level lead. |
 | 2026-06-16 | SPLY Capital | VC Associate | Austin / Dallas TX · hybrid-able | ⭐ **100** | REVIEWING | **Adam's call — the bullseye; already in active conversation.** Contact: Tyler Williams (Co-Founder & Managing Partner, Dallas). |
 | 2026-06-16 | TYH Ventures | Chief of Staff to Managing Partner | Remote (FL travel a few×/mo) | 63 | NEW | Adam: "interesting." Direct to MP; IR + infra build; $70–190K + bonus. |
 | 2026-06-16 | Paperboy Ventures | Chief of Staff | Remote (US, likely) | 60 | NEW | 2nd hire; LP/investor-network + diligence research + systems/AI tooling — strong operating match. Consumer/CPG sector (off-target but he's open). |
@@ -168,3 +176,30 @@ Fit Score is 0–100 per `fit-criteria.md`. ⭐ = warm-intro path exists.
 - **Warm-intro path:** None known.
 - **Tailoring notes:** Only pursue if he has a genuine women's-health/healthcare angle to argue; otherwise pass. Don't fabricate domain depth.
 - **Next action:** Likely PASS. Flag to Adam; pursue only if he wants to make the generalist-operator case.
+
+---
+
+## Verifying live status — method + required config
+
+**Rule going forward:** a role is only logged with status `NEW` (applyable) if its live status is
+**confirmed against a source that lists only currently-open roles.** Anything else is `⚠️ LEAD · unverified`
+and must be human-clicked before any work. No more surfacing dated archive links as opportunities.
+
+**Reliable live sources (list only open reqs, timestamped):**
+- Applicant-tracking JSON feeds — e.g. Greenhouse `https://boards-api.greenhouse.io/v1/boards/<firm>/jobs`,
+  Lever `https://api.lever.co/v0/postings/<firm>?mode=json`, Ashby `https://api.ashbyhq.com/posting-api/job-board/<firm>`.
+- The fund's own live application page (when not bot-blocked).
+- A freshly-dated aggregator result (LinkedIn job IDs encode recency — current 2026 reqs are high-numbered).
+
+**Why it failed on 2026-06-17:** this environment couldn't reach any of those:
+- **Bash egress is allowlisted** → `curl` to ATS APIs returns `Host not in allowlist`.
+- **WebFetch is Cloudflare-blocked (403)** on fund sites, ATS APIs, John Gannon, and LinkedIn job pages.
+- **WebSearch** only returns *indexed archives*, which are stale.
+
+**The fix (one of):**
+1. **Add hosts to the network egress allowlist** (env settings): `boards-api.greenhouse.io`, `api.lever.co`,
+   `api.ashbyhq.com`, `jobs.ashbyhq.com`, `www.linkedin.com`. Then live ATS verification works via Bash.
+   See https://code.claude.com/docs/en/claude-code-on-the-web (network policy).
+2. **Or pivot the sourcing model:** treat funds as *relationship* targets (warm-intro map in `network.md`)
+   rather than scraping boards, since investor seats are mostly network-filled and rarely posted publicly.
+   Human-verify any specific posting before it's logged `NEW`.
