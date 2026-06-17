@@ -52,6 +52,12 @@
 - **Why:** Both are lean-fund CoS seats with direct principal proximity, investor-relations/network building, and systems/AI-tooling work that match his operating profile. (Paperboy = consumer/CPG sector, off his hard-tech love but he's open.)
 - **Criteria implication:** Keep surfacing lean-fund CoS roles with direct founder/MD proximity even when sector is off-target.
 
+### 2026-06-17 — Denver leads triaged from full JDs (Kava / Saturn Five / CB Partners)
+- **Verdict:** Kava = KEEP (geo-pending); Saturn Five = DISQUALIFIED; CB Partners = PASS unless mission resonates.
+- **What happened:** Pulled the three full JDs (LinkedIn guest API). The details that weren't visible at prelim-scan time decided all three: **Saturn Five** is strictly on-site NW Denver + wants 10+ yrs of owner-operator P&L experience → two hard gates. **CB Partners** confirmed hybrid Denver 3×/wk + below-floor title/comp + off-thesis. **Kava** holds up (Sr Associate at floor, deal ownership, MBA clears the bar) but the JD never states a work model — so geo is an open, deciding unknown, and it carries a real M&A-modeling requirement that's a partial gap.
+- **Why:** The decisive facts in these roles (work model, the owner-operator experience bar) live in the body of the JD, not the title/location header. Reading the full posting before scoring avoids carrying dead leads.
+- **Criteria implication:** (1) **Pull the full JD before assigning a real score** — geo + experience bar are often buried, not in the header. (2) **"Operator/portfolio" PE seats that demand a former owner-operator (P&L responsibility) are out of his lane** — same shape as Saturn Five; discount on sight. (3) **On-site (non-hybrid) Denver trips the relocation gate** just like onsite SF/VA did — Denver only counts as a hub when the seat is hybrid/remote-tolerant. (4) **M&A-deal-modeling requirements are a recurring partial gap** (GridStor, now Kava) — flag honestly, don't overstate.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)

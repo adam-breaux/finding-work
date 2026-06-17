@@ -17,28 +17,21 @@ VC Associate, $300M defense/deep-tech CVC, Denver. Submitted via Workday with ta
 - [ ] Watch for a recruiter response; if interview → prep using `answer-bank.md` (thesis, pass story, AI systems)
 - [ ] If it advances: confirm Denver work model (hybrid vs onsite) + where comp lands in $86.8K–$198K + carry/LTIP
 
-## 🟡 Research the 3 new Denver leads (then `/score-role` or pass)
+## 🟡 Denver leads — JDs pulled + triaged 2026-06-17 (down to 1 keeper)
 
-### Kava Equity Partners — Senior Associate (PE) · prelim ~70 · best-shaped
-- [ ] Confirm work model (remote/hybrid/onsite Denver) + travel cadence — Tulsa-compatible?
-- [ ] Comp band (undisclosed) + carry/co-invest
-- [ ] Experience bar; do they value an operator/CoS background vs pure PE-deal pedigree?
-- [ ] Warm-intro path into the Southern Ute Growth Fund / SW-Colorado network
-- [ ] → `/score-role` once confirmed
+### Kava Equity Partners — Senior Associate (PE) · Score 70 · ✅ KEEPER, geo-pending
+The only one worth pursuing. Sr Associate = at his floor; full-deal-cycle ownership working directly with the MD; lean team. MBA clears the degree req; ~3 yrs + Atento diligence arguably clears the "related field" 2-yr bar. **Real partial gap:** JD wants M&A-transaction experience + strong financial accounting/modeling (he's an operator/sourcer, not a deal-modeler). Generalist LMM PE (off hard-tech).
+- [ ] **DECISIVE — confirm work model:** JD says only "Denver, CO," no remote/hybrid/onsite language. Needs Adam to ask the poster (LinkedIn msg) or apply-and-ask. **If strictly onsite → pass; if hybrid/remote-tolerant → proceed.**
+- [ ] Comp band (undisclosed) + carry/co-invest — raise in conversation
+- [ ] Warm-intro path into the Southern Ute Growth Fund / SW-Colorado (Durango–Ignacio) network — check Joey/Atento
+- [ ] If geo clears → `/score-role` to lock the number, then `/tailor-resume Kava` (PE-diligence cut)
 
-### Saturn Five — Operating Partner (PE) · prelim ~58 · operator role, not investor-sourcing
-- [ ] Work model + (likely heavy) travel to portfolio companies
-- [ ] Comp + carry
-- [ ] Does a CoS/operator profile clear their "owned/ran a business w/ P&L" bar?
-- [ ] Read their annual letters for culture/fit
-- [ ] → decide: `/score-role` or pass
+### Saturn Five — Operating Partner (PE) · ❌ PASSED/DISQUALIFIED 2026-06-17
+- [x] JD pulled — **disqualified on two hard gates:** (1) strictly **on-site NW Denver office** (relocation gate); (2) wants **10+ yrs with hands-on owner/operator P&L responsibility** (Adam ~3 yrs, never owned/ran an SMB). Operator/portfolio seat, not investor-sourcing. No further effort.
 
-### CB Partners (for an unnamed social-impact investor) — Senior Analyst · prelim ~55
-- [ ] Identify the actual employer (which impact org?) — sets firm-quality + sector read
-- [ ] Press the "Denver 3 days/week" cadence — any real remote flex? (decides the geo gate)
-- [ ] Title/level vs his Sr-Associate floor; comp tops at floor ($110–150K)
-- [ ] Gauge whether the mission resonates with Adam
-- [ ] → `/score-role` or pass
+### CB Partners (unnamed social-impact investor) — Senior Analyst · 🟠 PASS unless mission resonates
+- [x] JD pulled — confirmed **hybrid, Denver 3 days/week** (geo strain, no remote flex stated); title below floor; comp **$110–150K** at/below floor; off-thesis social-impact sector; 3–5 yr bar (Adam at bottom). Employer still undisclosed. AI-tools experience is a *preferred* qual (his edge).
+- [ ] **Only if Adam personally connects with the impact mission:** press CB Partners on real remote flexibility (the 3×/wk Denver cadence is the dealbreaker). Otherwise pass.
 
 ## 🟢 Decisions / confirms on already-scored roles
 - [ ] **GridStor** (Investment Associate, Score 70): decide with Adam whether the energy/industrial sector pull justifies pursuing a **project-finance modeling** seat outside his core. If yes → `/tailor-resume GridStor`; if no → log as sector-watch and pass.
