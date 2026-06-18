@@ -1,0 +1,81 @@
+{
+  "_comment": "Tenex — AI Strategist (applied-AI / forward-deployed strategy consulting) cut. Leads with daily agentic-AI practitioner + workflow redesign & automation + founder of an AI consulting practice (discovery -> opportunity ID -> ship enterprise automations) -> 1:1 with the Tenex JD. Foregrounds the production AI systems and exec/engineer proximity; de-emphasizes VC/fund-ops framing. NEEDS ADAM INPUT: confirm consulting-company name (placeholder 'WKB Studio'), founding date, and add concrete engagements/outcomes. Never fabricate.",
+  "name": "Adam Breaux",
+  "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK",
+  "summary": "Operator and daily agentic-AI practitioner who turns stalled AI pilots into workflows teams actually run. Founder of an AI consulting practice that embeds with companies, maps how work really happens, finds the highest-ROI bets, and ships enterprise-grade automations into production. Three years as a chief of staff and venture operator building companies 0-to-1 and the AI systems that run them. Credible with CEOs and engineers in equal measure, with a strong bias to ship.",
+  "sections": [
+    {
+      "heading": "EXPERIENCE",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Founder",
+          "org": "WKB Studio  —  AI consulting & automation",
+          "dates": "2025 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Founded an AI consulting practice that embeds with companies to map how work actually happens, surface the highest-ROI automation opportunities, and build and ship enterprise-grade AI automations into their operations.",
+            "Run engagements end to end — executive discovery and workflow mapping, through hands-on build, through rollout and adoption — using the modern agentic AI stack (Claude, multi-agent systems, and workflow-automation tooling).",
+            "Translate fuzzy executive asks into concrete technical direction, and engineering detail back into plain 'here's what it means for you' language for the client."
+          ]
+        },
+        {
+          "title": "Associate — Chief of Staff to CEO / Venture Operations Lead",
+          "org": "19days  —  B2B SaaS venture studio",
+          "dates": "May 2023 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Built and shipped a Claude-based operations platform for a sales team, integrating HubSpot, Fathom call transcripts, Google Drive/Gmail, calendar, and contract software — automating a daily morning brief (prior-day meetings to to-dos to drafted emails on a 24-hour SLA), meeting prep that assembles all prior context into the next agenda, and proposal/SOW drafting routed to the rep for review. Replaced manual work three people were doing by hand.",
+            "Designed multi-agent, continual-learning engines that source and score targets by fit (geography, thesis, stage / ICP), enrich via Clay, and run outbound with a full CRM — one producing a pipeline of hundreds of investors for a raise, another ~500 qualified sales leads.",
+            "Led Agentech from a blank page to a funded company (~$25M valuation today): drove it through discovery and a pivot into AI-powered insurance-claims servicing, built the team, and coordinated engineering, product, design, and marketing while running sales to the first $600K in ARR. Now its part-time CFO and continuing Chief of Staff.",
+            "Ran point with the C-suite and the front line alike — from CEOs, MDs, and LPs to individual reps — and led automation / GTM-tooling projects across the studio's portfolio to remove process bottlenecks.",
+            "Nicknamed 'AdamGPT' by leadership in 2022 for living at the frontier of new AI tooling; the daily practitioner the team turns to for what just shipped and how to use it."
+          ]
+        },
+        {
+          "title": "Venture Fellow / Diligence Support",
+          "org": "Atento Capital  —  VC arm of the George Kaiser Family Foundation",
+          "dates": "Sep 2022 – Jul 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "As 1 of ~12 fellows, ran discovery and screening calls across hundreds of companies, diligenced founding teams, assessed commercial viability, and presented theses to internal committees — sourcing 14 of 20 finalists, the most of any fellow.",
+            "Strong discovery instincts: known for asking the uncomfortable questions that surface how a business actually works, then aligning resources and driving to a decision."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "EDUCATION",
+      "type": "education",
+      "items": [
+        {
+          "title": "Master of Business Administration — Finance & Entrepreneurship",
+          "org": "The University of Tulsa",
+          "dates": "Dec 2023",
+          "location": "Tulsa, OK",
+          "bullets": []
+        },
+        {
+          "title": "B.S. Exercise Science / Pre-Med",
+          "org": "The University of Tulsa  —  Division I Cross Country & Track and Field",
+          "dates": "May 2021",
+          "location": "Tulsa, OK",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "heading": "SKILLS & STRENGTHS",
+      "type": "skills",
+      "items": [
+        "Daily hands-on agentic AI stack (Claude, multi-agent systems, ChatGPT, workflow-automation tooling)",
+        "Workflow discovery & redesign; process automation; driving adoption past launch",
+        "Building and shipping production AI systems and agentic workflows",
+        "Executive presence + engineering fluency — translating between both",
+        "0-to-1 company building; operations and process from scratch",
+        "Business evaluation & judgment; financial modeling",
+        "First-principles thinking; relentless, ship-now execution"
+      ]
+    }
+  ]
+}
