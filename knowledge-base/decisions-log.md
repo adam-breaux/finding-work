@@ -64,6 +64,16 @@
 - **Why:** Top-tier $800M deep-tech fund, remote-eligible (Tulsa-compatible), sector bullseye (AI / advanced materials / robotics / space) for his hard-tech thesis + 100 founder interviews + SBIR/STTR fluency. He applied despite the "Associate" title sitting below his Sr-Associate floor and the "min 4 yrs" bar being a slight reach (~3 yrs) — confirming the title-flex-for-top-firms rule in practice and that he'll stretch a year of experience for a genuine sector + firm + geo match.
 - **Criteria implication:** Reinforces the title-flex pattern: a top-tier firm + remote + exact-sector match clears the bar even at a below-floor title and a slightly-short experience requirement. Keep surfacing remote/hub deep-tech investor seats at strong firms even when the posted title/years are a touch below his stated floor.
 
+### 2026-06-18 — Tenex, AI Strategist — APPLIED (new archetype)
+- **Verdict:** FIT — applied.
+- **What Adam said:** "Here's an interesting role at Tenex that I would fit very well into." Disclosed he co-founded **Aeon**, an AI consulting practice (executive discovery → find the bottleneck → ship bespoke enterprise AI). Applied 2026-06-18 after we tailored a resume + wrote the application answers.
+- **Why:** Off the core VC thesis, but the **best experience match in the pipeline.** Tenex's strategist-+-forward-deployed-engineer model is literally how Aeon runs (Adam owns discovery + the client; cofounder Seth builds). His AI fluency ("AdamGPT"), the Agentech sales platform, and the Aeon drilling engagement map 1:1 to the JD. Comp hits his band ($150–180K + bonus + possible equity). He moved on personal conviction despite (a) it not being a VC seat and (b) the Ashby posting flagging **onsite NYC**.
+- **Criteria implication:**
+  1. **New in-scope archetype — applied-AI strategist / forward-deployed / AI-consulting seats at top AI firms** where his builder + discovery profile is the bullseye. Surface these alongside VC/CoS, not only investor seats.
+  2. **The "agency" gate is nuanced.** Elite applied-AI strategy (equity, frontier-lab partnerships, owns engagements end to end) is *not* the hours-billing client-services agency work he meant by "never again." Don't auto-gate AI-consulting roles — judge on ownership + stake + caliber.
+  3. **He'll pursue an off-thesis, geo-questionable role when work + fit are exceptional** (cf. title-flex for Toyota). But **geo (onsite NYC) is the live risk** — confirm work model before investing further.
+  4. **Aeon is now a core asset** in his story (and résumé/profile) — with one open question to resolve: *the thing, or a bridge?*
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)

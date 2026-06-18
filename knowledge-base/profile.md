@@ -14,6 +14,9 @@
 
 ## Section 1 — Basics & Logistics
 
+### Current venture (added 2026-06-18)
+- **Co-Founder, Aeon** (2025–present) — AI consulting practice building **bespoke AI products** that solve real operational bottlenecks. See the dedicated Aeon block in Section 3.
+
 ### Current role
 - **Title:** Associate (Chief of Staff to CEO / Venture Operations Lead) at **19days** (venture studio building B2B SaaS), May 2023–Present.
 - **Experience level:** ~3 years post-MBA in venture/operations; broad generalist. Has worn many hats: fund operations, metrics, LP reporting, HR, payroll, venture discovery, finance, product planning, sales.
@@ -100,6 +103,16 @@
 - **Deal/process tooling:** staged investor CRM with per-stage criteria/actions; a **term-sheet evaluation** workflow to move term sheets fast alongside legal review.
 - **Sales lead-gen engine:** same learning-loop architecture targeting independent adjusters, TPAs, and carriers matched to ICP → ~**500 leads**, enriched + outbound + full CRM.
 - **Claude operations platform** for the sales team, integrating **HubSpot, Fathom (call transcripts), Google Drive/Gmail, calendar, and contract software**. Skills: a daily **morning brief** (prior-day meetings → to-dos → drafted emails/content for a 24-hr SLA); **meeting prep** (pulls all prior context, builds the next agenda around what's still unknown — economic buyer, price sensitivity, timeline); and **proposal/SOW drafting** (reads all prospect conversations + internal guidelines, drafts, and routes to the rep for review).
+
+### Aeon — co-founded AI consulting venture (2025–present) — added 2026-06-18
+- **What it is:** **Aeon** builds **bespoke AI products** that solve real bottlenecks for customers. Co-founded with **Seth Hastings (Computer Science PhD)** — Seth is the builder (agentic stack); **Adam runs problem discovery, interviews, executive relationships, scoping, and adoption.** This is the **strategist + forward-deployed-engineer** model.
+- **Market:** Mid-size businesses in **Energy (Oil & Gas)** and **Manufacturing**; sells to the **owner / CEO.**
+- **Engagement model:** Lead with a **2-hour discovery workshop** (~**$2,500**) to unearth needs and bottlenecks → **SOW / build proposal**, builds run **~$50K–$200K+.** Deep client engagement throughout: checkpoints, feedback sessions, early/frequent MVPs, training, then an **ongoing support-and-upkeep contract.**
+- **Flagship engagement:** A **regionally top-tier upstream oil & gas operator (nine-figure budget).** Workshop spanned **COO → field engineers.** Identified bottleneck: **daily drilling reports** from contractors arriving in many formats — hours/day spent standardizing, charting, and finding field issues — with the **drilling budget about to double.** Built (1) a system that ingests every report format and **auto-generates their exact morning reporting** (BHA analysis, depth-vs-days curves, field callouts), and (2) a tool that **designs a strategy for a new well from historical offset-well data and explains the "why"** — compressing a weeks-long analysis into minutes. Closed with a training session + ongoing support contract.
+- **Traction:** This flagship engagement live + **a couple more in the pipeline** (early stage). Refer to the client publicly as *"a regionally top-tier upstream operator with a nine-figure budget."*
+- **Adam's daily stack:** **Claude Code, Cowork, GitHub, Notion, Granola, Wispr Flow, Excel.**
+- **Why it exists:** Adam unearths the problems (discovery/interviews); Seth builds with his agentic stack. Sector overlap with Adam's hard-tech/industrial love (oil & gas, manufacturing).
+- **Open positioning question (unresolved):** whether Aeon is *the* thing or a bridge while he searches — gauge before leaning on it in outreach for employee roles.
 
 ### Positioning the "gap"
 - **Young, but unusually strong experience for his age.** Chose 19days intentionally to learn at a rapid pace; now wants to **expand responsibilities / scope of ownership.** Frame youth as deliberate acceleration, not inexperience.

@@ -6,6 +6,18 @@
 
 ---
 
+## 🔴 Tenex — AI Strategist · ✅ APPLIED 2026-06-18 · Score ~79 (off-VC-thesis, high personal fit)
+Applied-AI / forward-deployed **strategy consulting** for the Fortune 500; **Anthropic + OpenAI are formal partners.** Near-perfect *experience* match via **Aeon** — Adam's co-founded AI consulting practice: he owns discovery + the client relationship, cofounder Seth ships the build = Tenex's **strategist + forward-deployed-engineer** model exactly. Comp **$150–180K base + quarterly bonus** (target total cash > base) + possible equity. Ashby `tenexlabs` (role id a7b5a192…).
+- [x] 2026-06-18 — Interviewed Adam on **Aeon**; captured into `profile.md`
+- [x] 2026-06-18 — Tailored resume (`resumes/variants/tenex.json` → `output/AdamBreaux_Tenex.docx`) — Aeon-led applied-AI cut
+- [x] 2026-06-18 — Drafted 3 application answers (`outreach/tenex-application.md`), Q3 as a narrative
+- [x] 2026-06-18 — **Submitted application**
+- [ ] **Geo — the live risk:** Ashby lists the seat **onsite NYC** (workplaceType=OnSite); JD only promises ~monthly client travel. If a recruiter responds, clarify remote/arrangement up front — Adam is Tulsa-anchored and won't relocate. This is the thing most likely to kill it.
+- [ ] **Aeon positioning (unresolved):** is Aeon *the thing* or a bridge? Have the "so why take a job?" answer ready before any interview.
+- [ ] Add a **real metric** to Q1/Q3 if Adam has one (hours/day saved, % rep adoption, proposal-draft time) — would sharpen the answers
+- [ ] (Optional edge) Short **public write-up** of the drilling engagement (sanitized) — the "public artifact" the JD rewards
+- [ ] Watch for a recruiter response; if interview → prep the Aeon story + daily-agentic-practitioner angle
+
 ## 🔴 Toyota Ventures — VC Associate (Frontier Fund) · Score 85 · ⭐ NEW TOP TARGET (VC sweep 2026-06-17)
 $800M+ deep-tech/climate fund (Joby, Stoke Space, Pickle Robot). Sources AI / advanced materials / robotics / **space tech** = his exact thesis. **Remote-eligible (US) per the JD** → Tulsa-compatible. Title-flex for a top firm. LinkedIn 4425168501 (live, 38 applicants).
 - [x] 2026-06-17 — **Tailored resume** (`resumes/variants/toyota.json` → `output/AdamBreaux_Toyota.docx`) — deep-tech VC cut
