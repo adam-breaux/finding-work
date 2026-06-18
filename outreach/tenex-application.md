@@ -32,24 +32,20 @@ The skill is holding both views at once — sitting with a CEO one hour and a fi
 
 ## Q3. Describe an AI agent/workflow/app you built (internal tool is fine).
 
-I'll give you two — one I built solo, and one we shipped to a client at Aeon.
+The clearest one I can walk you through is a sales operations platform I built — by myself — for Agentech, an AI-insurance company I helped build from zero.
 
-### Agentech sales operations platform (built it personally)
+The problem was the reps' mornings. Every day started the same way: re-reading yesterday's call transcripts, digging through HubSpot and email to reconstruct where each deal stood, then trying to remember what they'd promised to whom. Proposals were worse — a rep would sit down to write a SOW and have to reassemble the entire conversation history plus our internal pricing and policy from scratch. The actual selling kept getting pushed to the afternoon.
 
-**What it does + who used it.** A Claude-based operations platform that runs the daily workflow of Agentech's sales team. The reps used it every day.
+So I built a Claude-based platform that did that work for them. It plugged into the systems where the truth actually lived — HubSpot for pipeline, Fathom for call transcripts, and Google Drive, Gmail, and calendar for everything around them — and turned all of it into three things the reps used every day:
 
-**Inputs → outputs.** It consumes HubSpot CRM data, Fathom call transcripts, and Google Drive/Gmail/calendar, and produces: (1) a daily morning brief on each active client — prior-day meetings turned into to-dos and drafted follow-up emails on a 24-hour SLA; (2) meeting prep that pulls all prior context and builds the next agenda around what's still unknown (economic buyer, price sensitivity, timeline); and (3) drafted proposals/SOWs generated from the full conversation history plus our internal policy and precedent, routed to the rep for review.
+- **A morning brief on each active client.** It read the prior day's meetings and turned them into a clean list of to-dos and drafted follow-up emails, ready before the rep sat down — on a 24-hour SLA so nothing slipped.
+- **Meeting prep.** Before a call, it pulled every piece of prior context and built the next agenda around what we still *didn't* know — who the economic buyer was, how price-sensitive they were, what the real timeline looked like — instead of around what we'd already covered.
+- **Proposal and SOW drafting.** This was the big one. It read the full history of a prospect's conversations alongside our internal policy and precedent, drafted the proposal, and routed it to the rep to review and send — so a document that used to eat an afternoon started life as a near-final draft.
 
-**Tooling.** Claude as the LLM, integrated across HubSpot, Fathom, Google Workspace, and our contract software.
+Inputs in: HubSpot, Fathom transcripts, Gmail, Drive, calendar, and our contract software. Outputs out: morning briefs, meeting agendas, and drafted proposals and emails. The LLM was Claude, wired across all of those integrations. It's an internal tool, so there's no public demo to link.
 
-**Link.** Internal tool — no public demo.
+What I'm proudest of isn't the integrations — it's that the reps actually used it. I built it close to them, watched where it got things wrong, and kept iterating until the morning brief was the first thing they opened instead of something they ignored.
 
-### Aeon — drilling-report + offset-well system (shipped to a client)
+I'm now doing the same kind of work at Aeon, the AI company I co-founded. For an upstream oil & gas operator, we built a system that ingests their contractor drilling reports — which arrive in every format imaginable — and auto-generates their exact standardized morning reporting (BHA analysis, depth-vs-days curves, field callouts), plus a tool that designs a strategy for a new well from their historical offset-well data and explains the reasoning behind it. Inputs: messy multi-format drilling reports and historical well data. Outputs: clean morning reports with the field issues surfaced, and a defensible strategy for the next well. Built on the agentic stack — Claude Code and GitHub — with my cofounder, a CS PhD, on the build.
 
-**What it does + who used it.** For an upstream oil & gas operator, a system that ingests contractor daily drilling reports arriving in every format and auto-generates their exact standardized morning reporting (BHA analysis, depth-vs-days curves, field callouts), plus a tool that designs a strategy for a new well from their historical offset-well data and explains the why behind it. Used by their drilling and operations team.
-
-**Inputs → outputs.** Inputs: daily drilling reports in many formats, and historical offset-well report data. Outputs: standardized morning reports and visuals with surfaced field issues, and a recommended strategy for a new well with the reasoning — compressing a weeks-long manual analysis into minutes.
-
-**Tooling.** Built on the modern agentic stack (Claude Code, GitHub) with my cofounder, a CS PhD, on the build.
-
-**Link.** Client-confidential — no public demo.
+Same pattern both times: find the task a smart team is grinding through by hand, and hand it to a system that does it in minutes.
