@@ -83,6 +83,15 @@
   2. **Frontier-AI fluency + B2B SaaS operating depth is now a distinct lead** for AI-first funds — as strong an asset as the hard-tech thesis is for deep-tech funds.
   3. Reconfirms title-flex-for-top-firms and the "pursue despite geo when the firm is exceptional, clarify work model at first contact" pattern.
 
+### 2026-06-19 — Breakwater (PropTech studio), Venture Associate — CASTING WIDE (foot-in-door)
+- **Verdict:** MAYBE / low-conviction — Adam chose to apply as a "foot-in-door / casting wide" play, eyes open to the tradeoffs.
+- **What Adam said:** "Here's the next role I am applying to." When flagged that it hits his "no studios" line + is below his investor-track floor, he picked **"Foot-in-door / casting wide"** — build solid materials fast, don't over-invest.
+- **Why (the tension):** The "Venture Associate" title is cosmetic — it's a CoS / BizOps / operational-backbone seat (studio ops, GTM pipeline, fundraising-readiness, SOPs, overseas-team coordination), **no investing.** It trips his explicit **venture-studio exclusion**, sits at **1–3 yr / below his Sr-Associate floor**, comp undisclosed (likely sub-floor), sector off-thesis (PropTech/hospitality/STR), and asks for an intense/late-hours culture (he has a young family). Offsetting: the *work* is a near 1:1 with his 19days fund-ops/CoS/pipeline build (he'd excel), and **geo is workable** (remote acceptable initially, open to anywhere for the right candidate).
+- **Criteria implication:**
+  1. **"Venture Associate" / "Venture [X]" titles at studios are frequently ops/CoS seats, not investor seats** — read the *tasks*, not the title, before scoring. Same lesson as the level-buried-in-the-body pattern.
+  2. **Adam will cast wide into lower-fit roles when the work plays to a genuine strength and geo is easy** — but explicitly as foot-in-door, not as a priority. Keep these clearly tier-2 in the pipeline; don't over-invest build effort.
+  3. The **venture-studio exclusion holds as a real signal** (this is the first studio role surfaced since intake) — surface studio roles only with the exclusion flagged, and let Adam make the call.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)
