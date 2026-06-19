@@ -74,6 +74,15 @@
   3. **He'll pursue an off-thesis, geo-questionable role when work + fit are exceptional** (cf. title-flex for Toyota). But **geo (onsite NYC) is the live risk** — confirm work model before investing further.
   4. **Aeon is now a core asset** in his story (and résumé/profile) — with one open question to resolve: *the thing, or a bridge?*
 
+### 2026-06-19 — M12 (Microsoft), Associate (CVC) — PREPARING (thesis-framing insight)
+- **Verdict:** FIT (geo-pending) — Adam is applying; materials in prep.
+- **What Adam said:** "I am applying for the following Job. Let's get started on it." (M12 Associate, Microsoft's CVC arm.)
+- **Why:** Top-tier CVC investor seat; sectors are **AI + B2B SaaS** = his operating background and his single biggest edge (frontier-AI fluency, production agentic systems, Aeon). JD maps cleanly to his Atento sourcing/diligence + fund-ops + financial/unit-economics modeling + IC-memo + thesis-research reps. Title "Associate" below his floor but Microsoft = unambiguously top-tier (title-flex). Geo (SF HQ + Seattle, no remote language) is the live risk — pursuing anyway on firm caliber, per the Tenex/Toyota precedent.
+- **Criteria implication:**
+  1. **Tailoring must read the fund's thesis, not just the role shape.** For an AI/B2B-SaaS-investing CVC, his "AI-app-software-is-un-investable / hard-tech-is-the-frontier" thesis **argues against the fund** — so it must be reframed as evidence of *thesis-building and primary research ability*, not surfaced as a contrarian sector bet. (Inverse of Booz Allen/Toyota, where leading with the hard-tech thesis was the right move.) Pick the thesis framing per the reader.
+  2. **Frontier-AI fluency + B2B SaaS operating depth is now a distinct lead** for AI-first funds — as strong an asset as the hard-tech thesis is for deep-tech funds.
+  3. Reconfirms title-flex-for-top-firms and the "pursue despite geo when the firm is exceptional, clarify work model at first contact" pattern.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)

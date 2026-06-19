@@ -1,0 +1,111 @@
+{
+  "_comment": "M12 (Microsoft's CVC) Associate cut. M12 invests in AI, B2B SaaS, cloud infra, cybersecurity, DevOps, gaming/web3 — so this variant does NOT lead with the 'AI SaaS is un-investable / hard-tech' thesis (that argues against the fund). Instead it foregrounds frontier-AI fluency + B2B SaaS operating depth + sourcing/diligence + thesis-building & primary research (JD emphasizes building theses, opinionated views, unit economics + valuation modeling, IC memos, thought leadership). Built by /tailor-resume. Never fabricate.",
+  "name": "Adam Breaux",
+  "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK",
+  "summary": "Investor-operator with three years across the venture lifecycle — sourcing and diligencing deals for a $100M+ foundation VC arm, building four B2B SaaS companies from 0 to 1, and running fund operations and LP reporting on an $8M fund. Pairs deep financial-modeling and diligence judgment with rare, hands-on frontier-AI fluency: nicknamed 'AdamGPT' by leadership in 2022 and a builder of production multi-agent systems for deal sourcing and operations. Builds opinionated, research-backed theses, including ~100 primary founder interviews mapping a sector from the ground up.",
+  "sections": [
+    {
+      "heading": "EXPERIENCE",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Associate — Chief of Staff to CEO / Venture Operations Lead",
+          "org": "19days  —  B2B SaaS venture studio",
+          "dates": "May 2023 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "0-to-1 venture lead: Took Agentech from a blank page to a funded B2B SaaS company (~$25M valuation today) — thesis through pivot to AI-powered insurance-claims servicing; built the team and ran sales to the first $600K ARR. Now its part-time CFO and Chief of Staff.",
+            "Diligence & financial modeling: Built three-statement, returns, and unit-economics models and ran competitive analysis across 500+ companies; computed fund TVPI for fundraising. Owned Agentech's $3M seed end to end — investor memo, financial model, projections, and data room — to a fast, fully-subscribed close, and ran the same process across multiple ventures (~$10M raised studio-wide).",
+            "Fund operations (built from scratch): For an $8M fund, defined the venture- and studio-level metrics and KPIs that mattered, stood up portfolio tracking, reporting, and portfolio-review presentations, and became the direct point of contact LPs come to for updates; led the annual LP meeting end to end.",
+            "Production AI systems: Built a multi-agent investor-sourcing engine with a continual-learning loop (ranked by geography, thesis, and stage; enriched via Clay) that produced a pipeline of hundreds of investors, plus staged-pipeline and term-sheet-evaluation tooling; and a Claude-based operations platform spanning CRM, call transcripts, email, calendar, and contracts that auto-drafts morning briefs, meeting agendas, and proposals."
+          ]
+        },
+        {
+          "title": "Venture Fellow / Investment Diligence",
+          "org": "Atento Capital  —  VC arm of the George Kaiser Family Foundation ($100M+ fund)",
+          "dates": "Sep 2022 – Jul 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Sourced 14 of 20 finalists and 4 of 7 startups selected to pitch — the most of any of ~12 fellows; screened hundreds of companies against the fund's themes.",
+            "Ran screening calls, diligenced founding teams, assessed commercial viability, and presented investment theses to internal committees.",
+            "Recalled by principals to support diligence on two Core Fund I deals: bottom-up market sizing, competitive analysis, and financial-projection review delivered directly to a GP.",
+            "Judgment, validated: On all three deals I diligenced, I recommended against — on scalability, market size, and an unconvincing expansion story; all three are no longer operating."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Market Research & Investment Theses",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Co-Founder — Aeon (bespoke enterprise-AI products)",
+          "org": "",
+          "dates": "2025 – Present",
+          "location": "",
+          "bullets": [
+            "Co-founded a practice that builds bespoke AI products for mid-market companies; own executive discovery, problem scoping, and adoption — primary-source insight into how frontier AI is actually deployed in production and where it creates durable value.",
+            "Built an investment thesis from primary research — ~100 founder and operator interviews mapping a sector's structure, emerging trends, and where value accrues in an AI-saturated market."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Earlier Leadership",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Founding President — starTUp (University of Tulsa VC Club)",
+          "org": "",
+          "dates": "Jan 2023 – Aug 2023",
+          "location": "",
+          "bullets": [
+            "Founded TU's first VC club and placed members as analysts on the 46VC Hurricane Venture Fund, a multi-million-dollar student/alumni fund."
+          ]
+        },
+        {
+          "title": "Chair, Macroeconomic Committee — TU Student Investment Fund ($8M)",
+          "org": "",
+          "dates": "Jan 2023 – May 2023",
+          "location": "",
+          "bullets": [
+            "Implemented an ETF strategy and decision process still in use today; made buy/sell calls on macro trends and led analysts to execute."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "EDUCATION",
+      "type": "education",
+      "items": [
+        {
+          "title": "Master of Business Administration — Finance & Entrepreneurship",
+          "org": "The University of Tulsa",
+          "dates": "Dec 2023",
+          "location": "Tulsa, OK",
+          "bullets": []
+        },
+        {
+          "title": "B.S. Exercise Science / Pre-Med",
+          "org": "The University of Tulsa  —  Division I Cross Country & Track and Field",
+          "dates": "May 2021",
+          "location": "Tulsa, OK",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "heading": "Skills & Strengths",
+      "type": "skills",
+      "items": [
+        "Deal sourcing, screening & diligence",
+        "Investment judgment & business evaluation",
+        "Financial, unit-economics & valuation modeling (multiple methods)",
+        "Market & competitive research; investment memos; thesis development",
+        "B2B SaaS & AI operating experience (0→1 builds)",
+        "Frontier-AI fluency; building production multi-agent / agentic systems",
+        "First-principles thinking; relentless execution"
+      ]
+    }
+  ]
+}
