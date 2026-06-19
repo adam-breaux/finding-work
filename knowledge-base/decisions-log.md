@@ -74,6 +74,24 @@
   3. **He'll pursue an off-thesis, geo-questionable role when work + fit are exceptional** (cf. title-flex for Toyota). But **geo (onsite NYC) is the live risk** — confirm work model before investing further.
   4. **Aeon is now a core asset** in his story (and résumé/profile) — with one open question to resolve: *the thing, or a bridge?*
 
+### 2026-06-19 — M12 (Microsoft), Associate (CVC) — APPLIED (thesis-framing insight)
+- **Verdict:** FIT (geo-pending) — APPLIED 2026-06-19.
+- **What Adam said:** "I am applying for the following Job. Let's get started on it." → "I applied to M12. They didn't ask for anything else." (Application took the resume; no short-answer prompts.)
+- **Why:** Top-tier CVC investor seat; sectors are **AI + B2B SaaS** = his operating background and his single biggest edge (frontier-AI fluency, production agentic systems, Aeon). JD maps cleanly to his Atento sourcing/diligence + fund-ops + financial/unit-economics modeling + IC-memo + thesis-research reps. Title "Associate" below his floor but Microsoft = unambiguously top-tier (title-flex). Geo (SF HQ + Seattle, no remote language) is the live risk — pursuing anyway on firm caliber, per the Tenex/Toyota precedent.
+- **Criteria implication:**
+  1. **Tailoring must read the fund's thesis, not just the role shape.** For an AI/B2B-SaaS-investing CVC, his "AI-app-software-is-un-investable / hard-tech-is-the-frontier" thesis **argues against the fund** — so it must be reframed as evidence of *thesis-building and primary research ability*, not surfaced as a contrarian sector bet. (Inverse of Booz Allen/Toyota, where leading with the hard-tech thesis was the right move.) Pick the thesis framing per the reader.
+  2. **Frontier-AI fluency + B2B SaaS operating depth is now a distinct lead** for AI-first funds — as strong an asset as the hard-tech thesis is for deep-tech funds.
+  3. Reconfirms title-flex-for-top-firms and the "pursue despite geo when the firm is exceptional, clarify work model at first contact" pattern.
+
+### 2026-06-19 — Breakwater (PropTech studio), Venture Associate — CASTING WIDE (foot-in-door)
+- **Verdict:** MAYBE / low-conviction — Adam chose to apply as a "foot-in-door / casting wide" play, eyes open to the tradeoffs.
+- **What Adam said:** "Here's the next role I am applying to." When flagged that it hits his "no studios" line + is below his investor-track floor, he picked **"Foot-in-door / casting wide"** — build solid materials fast, don't over-invest.
+- **Why (the tension):** The "Venture Associate" title is cosmetic — it's a CoS / BizOps / operational-backbone seat (studio ops, GTM pipeline, fundraising-readiness, SOPs, overseas-team coordination), **no investing.** It trips his explicit **venture-studio exclusion**, sits at **1–3 yr / below his Sr-Associate floor**, comp undisclosed (likely sub-floor), sector off-thesis (PropTech/hospitality/STR), and asks for an intense/late-hours culture (he has a young family). Offsetting: the *work* is a near 1:1 with his 19days fund-ops/CoS/pipeline build (he'd excel), and **geo is workable** (remote acceptable initially, open to anywhere for the right candidate).
+- **Criteria implication:**
+  1. **"Venture Associate" / "Venture [X]" titles at studios are frequently ops/CoS seats, not investor seats** — read the *tasks*, not the title, before scoring. Same lesson as the level-buried-in-the-body pattern.
+  2. **Adam will cast wide into lower-fit roles when the work plays to a genuine strength and geo is easy** — but explicitly as foot-in-door, not as a priority. Keep these clearly tier-2 in the pipeline; don't over-invest build effort.
+  3. The **venture-studio exclusion holds as a real signal** (this is the first studio role surfaced since intake) — surface studio roles only with the exclusion flagged, and let Adam make the call.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)

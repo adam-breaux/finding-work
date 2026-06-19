@@ -1,0 +1,71 @@
+{
+  "_comment": "Breakwater (PropTech studio) Venture Associate cut. This is a CoS/BizOps/Founder's-Associate seat (operational backbone), NOT an investor seat — so it leads with the 19days fund-ops/CoS/pipeline build, mirrors the JD's language (execution hub, cadence, GTM pipeline, investor-ready fundraising materials, SOPs, cross-functional/remote coordination, venture validation/spinout), and foregrounds startup-ops toolstack + AI fluency. Lower-conviction 'casting wide' application (hits Adam's 'no venture studios' line + below his investor-track floor). Built by /tailor-resume. Never fabricate.",
+  "name": "Adam Breaux",
+  "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK (remote; open to travel)",
+  "summary": "Chief-of-staff operator — the connective tissue that makes a studio actually run. Three years as the operational backbone of a B2B SaaS venture studio: built the execution systems, weekly cadence, and reporting from scratch, ran staged investor and GTM pipelines in CRM, and kept fundraising materials investor-ready across multiple raises. Coordinated ~50 people across cross-functional and remote teams, took two companies from 0 to 1, and built the AI tooling that removed the bottlenecks. High agency, relentless execution, fluent in the modern startup ops + AI stack.",
+  "sections": [
+    {
+      "heading": "EXPERIENCE",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Associate — Chief of Staff to CEO / Venture Operations Lead",
+          "org": "19days  —  B2B SaaS venture studio",
+          "dates": "May 2023 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Operational backbone of the studio: built the execution systems, weekly cadence, metrics, and reporting that kept ventures and the studio on track, drove accountability across teams, and stood up the entire back office (HR, payroll, accounting) from zero.",
+            "Ran staged pipelines in CRM end to end — an investor-tracking CRM (projected amounts, likelihood, per-stage criteria and next actions, weekly review cadence) for fundraising, and a ~500-lead GTM pipeline (enrichment, outbound, full CRM) for sales — handing warm opportunities to founders to close.",
+            "Kept the fundraising machine investor-ready: built and maintained investor memos, decks, financial models and projections, and data rooms across multiple raises (Agentech's $3M seed plus others; ~$10M studio-wide) so the team could take investor meetings at a moment's notice.",
+            "Venture validation and spinout, hands-on: took Agentech from a blank page to a funded company (~$25M valuation today) through multiple validation rounds and a pivot to AI-powered insurance-claims servicing; now its part-time CFO and Chief of Staff.",
+            "Coordinated ~50 people across engineering, product, design, marketing, and sales (teams of 2–15), including remote contributors — set the standups and weekly planning that kept execution tight.",
+            "Built the AI tooling and SOPs that removed bottlenecks: a Claude-based operations platform spanning CRM, call transcripts, email, calendar, and contracts that auto-drafts morning briefs, meeting agendas, and proposals, plus automation projects across portfolio companies."
+          ]
+        },
+        {
+          "title": "Venture Fellow / Investment Diligence",
+          "org": "Atento Capital  —  VC arm of the George Kaiser Family Foundation ($100M+ fund)",
+          "dates": "Sep 2022 – Jul 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Sourced 14 of 20 finalists and 4 of 7 startups selected to pitch — the most of any of ~12 fellows; screened hundreds of companies, ran screening calls, and diligenced founding teams.",
+            "Recalled by principals to support diligence on two Core Fund I deals: market sizing, competitive analysis, and financial-projection review delivered directly to a GP."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "EDUCATION",
+      "type": "education",
+      "items": [
+        {
+          "title": "Master of Business Administration — Finance & Entrepreneurship",
+          "org": "The University of Tulsa",
+          "dates": "Dec 2023",
+          "location": "Tulsa, OK",
+          "bullets": []
+        },
+        {
+          "title": "B.S. Exercise Science / Pre-Med",
+          "org": "The University of Tulsa  —  Division I Cross Country & Track and Field",
+          "dates": "May 2021",
+          "location": "Tulsa, OK",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "heading": "SKILLS & STRENGTHS",
+      "type": "skills",
+      "items": [
+        "Studio / venture operations: execution hubs, weekly cadence & accountability",
+        "Pipeline management in CRM (investor + GTM); weekly pipeline reviews",
+        "Fundraising readiness: decks, one-pagers, models, data rooms, outreach trackers",
+        "SOPs, documentation & process design built from scratch",
+        "Cross-functional & remote team coordination; standups + weekly planning",
+        "Modern startup ops + AI toolstack (Notion, HubSpot, Google Suite; nicknamed 'AdamGPT')",
+        "Financial modeling & business analysis; first-principles execution"
+      ]
+    }
+  ]
+}
