@@ -1,0 +1,81 @@
+{
+  "_comment": "Google Business Operations & Strategy (BizOps — internal consulting) cut. This is the strategy-&-operations / Chief-of-Staff archetype, NOT an investor seat — so it reframes Adam's work in BizOps language: structuring ambiguous problems, modeling, executive-ready recommendations, cross-functional consensus + operationalizing, and applying generative AI to go-to-market and operations (the JD's headline themes: gen-AI GTM, AI-native enterprise, monetization, moonshots). Trim/reorder of master.json only; never fabricate. Investor/LP specifics are de-emphasized; Atento kept as proof of rapid analysis + recommendations. Aeon (AI consulting) deliberately omitted for consistency/positioning — strong optional add given the gen-AI focus; raise with Adam. FLAGS: Google BizOps is hub-based (Tulsa-anchored hybrid is a question to confirm); JD min qual is consulting/biz-strategy experience — Adam's venture/ops + MBA reads as the equivalent.",
+  "name": "Adam Breaux",
+  "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK (open to hybrid + travel)",
+  "summary": "Strategy-and-operations operator who structures ambiguous business problems, builds the model and the recommendation, then drives cross-functional teams to execute. Three years as Chief of Staff and venture operations lead: took companies from a blank-page thesis to funded, operating businesses; built financial and operational models and competitive analysis across 500+ companies; and aligned ~50 people across engineering, product, design, marketing, and sales. Recognized internal authority on applying generative AI to go-to-market and operations — nicknamed 'AdamGPT' by leadership.",
+  "sections": [
+    {
+      "heading": "EXPERIENCE",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Associate (Chief of Staff to CEO / Venture Operations Lead)",
+          "org": "19days  —  B2B SaaS venture studio",
+          "dates": "May 2023 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Structured ambiguous, blank-page problems into executed strategy: took Agentech from a broad thesis through discovery, a pivot into AI-powered insurance-claims servicing, and on to a funded company (now a $25M valuation) — defining the problem, building the plan, and operationalizing it to the first $600K in ARR.",
+            "Led cross-functionally without authority: coordinated ~50 people across engineering, product, design, marketing, and sales (teams of 2–15), built consensus on priorities, and drove decisions through to execution; now also serve as Agentech's part-time CFO.",
+            "Turned large, messy datasets into recommendations executives acted on: built three-statement, returns, and fund-performance models and competitive analysis across 500+ companies, and delivered the narrative, decks, and projections that won a fully-subscribed $3M seed.",
+            "Applied generative AI to go-to-market and operations: designed and shipped a multi-agent sourcing engine (continual-learning loop; hundreds of targets) and a Claude-based platform spanning CRM, calls, email, and contracts that auto-drafts briefs, meeting prep, and proposals — and led automation projects that removed bottlenecks across portfolio companies.",
+            "Built the operating backbone from scratch: defined the metrics that mattered at venture and studio level, stood up reporting and the entire back office (HR, payroll, accounting), and became the direct reporting contact for the fund's stakeholders."
+          ]
+        },
+        {
+          "title": "Venture Fellow / Investment Diligence",
+          "org": "Atento Capital  —  VC arm of the George Kaiser Family Foundation ($100M+ funds)",
+          "dates": "Sep 2022 – Jul 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Gathered and analyzed information on hundreds of companies under tight timelines; sourced 14 of 20 finalists — the most of any of ~12 fellows — and presented recommendations to internal committees.",
+            "Diligenced deals for the foundation's $100M+ funds: bottom-up market sizing, competitive analysis, and financial-projection review delivered directly to a GP.",
+            "Recommended against all three deals I evaluated — flagging weak scalability, small markets, and unconvincing expansion demand; all three are now defunct."
+          ]
+        },
+        {
+          "title": "Earlier Leadership",
+          "org": "University of Tulsa",
+          "dates": "Jan 2023 – Aug 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Founding President, starTUp (TU's first VC club): built the organization and placed members as analysts on the 46VC Hurricane Venture Fund.",
+            "Chair, Macroeconomic Committee, TU Student Investment Fund ($8M): implemented an ETF strategy and a decision process still in use today; made buy/sell calls and led analysts to execute."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "EDUCATION",
+      "type": "education",
+      "items": [
+        {
+          "title": "Master of Business Administration — Finance & Entrepreneurship",
+          "org": "The University of Tulsa",
+          "dates": "Dec 2023",
+          "location": "Tulsa, OK",
+          "bullets": []
+        },
+        {
+          "title": "B.S. Exercise Science / Pre-Med",
+          "org": "The University of Tulsa  —  Division I Cross Country & Track and Field",
+          "dates": "May 2021",
+          "location": "Tulsa, OK",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "heading": "SKILLS & STRENGTHS",
+      "type": "skills",
+      "items": [
+        "Structuring ambiguous business problems; first-principles problem solving",
+        "Financial & operational modeling (three-statement, returns, scenario)",
+        "Executive-ready analysis, recommendations, and presentations",
+        "Cross-functional leadership, consensus-building, and operationalizing decisions",
+        "Strategy and business operations built from scratch",
+        "Applying generative AI to go-to-market and operations (nicknamed 'AdamGPT')",
+        "Rapid synthesis of large, messy datasets; relentless execution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_comment": "Venture Search (recruiter) — VC-focused Analyst at an undisclosed mid-market GP. The JD reads fund-of-funds / multi-manager LP-allocator (monitor fund managers + underlying portfolio companies, portfolio construction, client/LP reporting) with AI/automation as a repeated, core requirement. So this cut leads with (1) Adam's fund-ops + LP-reporting + fund-performance (TVPI/DPI/IRR) work — direct analog to manager/portfolio monitoring and client reporting — and (2) the AI systems he's built to automate analysis, monitoring, and evaluation (the JD's signature ask), then sourcing/diligence/investment judgment. Trim/reorder of master.json only; never fabricate. NOTE: JD asks for GPA 3.6+ and undergrad — not on file, raise with Adam before sending if he qualifies. Aeon deliberately omitted (positioning unresolved); AI proof carried via 19days bullets.",
+  "name": "Adam Breaux",
+  "contact": "713.302.2020  |  abreaux015@gmail.com  |  linkedin.com/in/adambreaux  |  Tulsa, OK (open to hybrid + travel)",
+  "summary": "Investor-operator who pairs hands-on fund and portfolio analysis with rare fluency building the AI tooling that automates it. Built fund operations and LP reporting from scratch — defining the metrics that mattered and computing fund performance (TVPI/DPI/IRR) — sourced and diligenced deals for a multi-billion-dollar foundation's VC arm, and took companies from 0 to 1. Designs and ships AI systems that automate sourcing, monitoring, and evaluation; nicknamed 'AdamGPT' by leadership for living on the frontier of the tooling.",
+  "sections": [
+    {
+      "heading": "EXPERIENCE",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Associate (Chief of Staff to CEO / Venture Operations Lead)",
+          "org": "19days  —  B2B SaaS venture studio",
+          "dates": "May 2023 – Present",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Built fund operations and LP reporting from scratch for an $8M fund: defined the venture- and studio-level metrics that mattered, stood up the tracking, and computed fund performance (TVPI). Became the direct point of contact LPs came to for updates and led the annual LP meeting end to end — the same manager- and portfolio-monitoring and client reporting this role centers on.",
+            "Designed and shipped AI systems that automate analysis, monitoring, and evaluation: a multi-agent engine that sources, scores, enriches, and re-searches investor and lead pipelines in a continual-learning loop (hundreds of targets), plus a Claude-based operations platform that ingests calls, email, and documents to auto-draft briefs, meeting prep, and proposals.",
+            "Built portfolio models and analytical tools — financial models and competitive analysis across 500+ companies, and a staged investor-tracking CRM (projected amounts, likelihood, per-stage criteria/actions, weekly review cadence) used to evaluate and report on pipeline.",
+            "Led Agentech from a blank page to a funded company (now a $25M valuation): drove discovery, a pivot into AI-powered insurance-claims servicing, team build, first $600K ARR, and a $3M seed; now serve as its part-time CFO.",
+            "Developed the Fund II narrative, pitch, target-investor database, and investor-relationship CRM; led automation projects across portfolio companies to remove operating bottlenecks."
+          ]
+        },
+        {
+          "title": "Venture Fellow / Investment Diligence",
+          "org": "Atento Capital  —  VC arm of the George Kaiser Family Foundation ($100M+ funds)",
+          "dates": "Sep 2022 – Jul 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Sourced 14 of 20 finalists and 4 of 7 startups selected to pitch — the most of any of ~12 fellows; screened hundreds of companies and ran screening calls.",
+            "Recalled by principals to support diligence on two Core Fund I deals: bottom-up market sizing, competitive analysis, and financial-projection review delivered directly to a GP.",
+            "Recommended against all three deals I diligenced — flagging weak scalability, small markets, and unconvincing expansion demand; all three are now defunct."
+          ]
+        },
+        {
+          "title": "Founding President",
+          "org": "starTUp — University of Tulsa Venture Capital Club",
+          "dates": "Jan 2023 – Aug 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Founded TU's first VC club; placed members as analysts on the 46VC Hurricane Venture Fund (multi-million-dollar student/alumni fund) and ran a 'Demystifying VC and PE' panel with local partners."
+          ]
+        },
+        {
+          "title": "Chair, Macroeconomic Committee",
+          "org": "University of Tulsa Student Investment Fund  —  $8M student-run fund",
+          "dates": "Jan 2023 – May 2023",
+          "location": "Tulsa, OK",
+          "bullets": [
+            "Implemented an ETF strategy and a decision-making process still in use today; made buy/sell calls on macro trends and led analysts to execute."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "EDUCATION",
+      "type": "education",
+      "items": [
+        {
+          "title": "Master of Business Administration — Finance & Entrepreneurship",
+          "org": "The University of Tulsa",
+          "dates": "Dec 2023",
+          "location": "Tulsa, OK",
+          "bullets": []
+        },
+        {
+          "title": "B.S. Exercise Science / Pre-Med",
+          "org": "The University of Tulsa  —  Division I Cross Country & Track and Field",
+          "dates": "May 2021",
+          "location": "Tulsa, OK",
+          "bullets": []
+        }
+      ]
+    },
+    {
+      "heading": "SKILLS & STRENGTHS",
+      "type": "skills",
+      "items": [
+        "Fund & portfolio monitoring; manager/portfolio performance (TVPI / DPI / IRR)",
+        "Investment sourcing, diligence & evaluation; market sizing & competitive analysis",
+        "Building AI systems to automate data analysis, monitoring & evaluation (nicknamed 'AdamGPT')",
+        "Portfolio models & analytical tools; financial modeling (three-statement, returns, fund)",
+        "Industry / trend research and investment reporting for clients & LPs",
+        "0-to-1 venture building; process and operations from scratch",
+        "First-principles thinking; relationship-driven, relentless execution"
+      ]
+    }
+  ]
+}
