@@ -92,6 +92,20 @@
   2. **Adam will cast wide into lower-fit roles when the work plays to a genuine strength and geo is easy** — but explicitly as foot-in-door, not as a priority. Keep these clearly tier-2 in the pipeline; don't over-invest build effort.
   3. The **venture-studio exclusion holds as a real signal** (this is the first studio role surfaced since intake) — surface studio roles only with the exclusion flagged, and let Adam make the call.
 
+### 2026-06-29 — Batch of three: 16VC (Investor), Isogon (Investor), Hanover Park (CoS) — ALL APPLIED
+- **Verdict:** FIT — Adam applied to all three (16VC via Google Form already; Isogon + Hanover Park after we built tailored resumes).
+- **What Adam said:** Brought all three himself. On Hanover Park: "This is a shift but I am a great fit." Then: "All three of these roles are applied for."
+- **Why each / the signals:**
+  1. **Isogon Ventures (~85, ⭐ sector bullseye).** Series A into "the technological backbone of the real economy" (industrial software/automation/AI infra for manufacturing/logistics/energy/physical systems) = **his exact hard-tech/reindustrialization thesis**, plus **carry from day one** (stated in the JD) and a **3–8 yr** band that puts him *at* the floor (no title-flex needed). Resume **led with the thesis** (Toyota/Booz-Allen pattern) — Aeon's oil-&-gas/manufacturing builds + 100 founder interviews + SBIR/STTR up top. Rivals/edges Toyota as the best thesis fit applied to.
+  2. **16VC (~72).** A **genuinely remote** VC investor seat (rare). Held back by an **unverified/new firm** ("low performers"/legitimacy risk), a partial miss on the "1–2 yrs as a VC-firm Analyst/Associate" non-negotiable (his match — Atento — was a fellowship; 19days a studio), undisclosed comp, and heavy intl travel. Resume **buried the contrarian thesis** (their core is AI/SaaS — M12 pattern) and led with Atento $100M+ sourcing/diligence + AI-builder edge.
+  3. **Hanover Park (~76).** A deliberate move into his **#2 archetype (CoS)** — and a near-carbon-copy of his actual 19days job (operating system, owned financial model, internal-AI infra, cross-functional follow-through) at a better-funded ($31M, Emergence/Susa) AI fund-admin co. **Ideal-background triple-hit** (ex-founder + CoS + finance). Resume **reframed him as a CoS/operator**, not an investor.
+- **Criteria implications:**
+  1. **Tailoring framing is per-reader, now proven three ways in one batch:** *lead with* the hard-tech thesis for a deep-tech/industrial fund (Isogon); *bury* it and lead with AI-builder + sourcing/diligence for an AI/SaaS fund (16VC); *drop the investor frame entirely* and lead CoS/operator for a CoS seat (Hanover Park). Pick the lead by what the reader rewards.
+  2. **CoS is a live, in-scope archetype again** — Adam will move on an exceptional CoS seat (esp. one that uses his fund-ops + financial-modeling + internal-AI-infra muscle) even though the investor seat is #1. Keep surfacing high-ownership CoS-to-CEO/MD roles at well-funded, high-caliber companies.
+  3. **"Work model not stated" is the recurring deciding unknown** — all three JDs omitted location. Adam applies anyway and clarifies geo at first contact (the Toyota/M12/Tenex pattern). Flag it every time, don't let it block the application.
+  4. **Carry/equity stays a conversation, not a screen** — only Isogon named carry ("from day one"); confirm terms in conversation for all three (esp. the unverified 16VC).
+  5. **Highest-leverage open follow-up: the deep-tech market memo** (from his 100 interviews) — Isogon is its ideal home, and it doubles as a writing sample for any thesis-driven fund. Still not built.
+
 ---
 
 ## Rolled-up patterns (maintained by /refine-search)
